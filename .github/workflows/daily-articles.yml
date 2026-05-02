@@ -1,0 +1,28 @@
+name: Generate Daily Articles
+on:
+  schedule:
+    - cron: '0 6 * * *'   # runs every day at 6 AM UTC
+  workflow_dispatch:        # also lets you trigger manually
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests google-generativeai
+      - env:
+          GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
+          UNSPLASH_KEY: ${{ secrets.UNSPLASH_KEY }}
+        run: python generate_articles.py
+      - run: |
+          git config user.name "HealthGuide Bot"
+          git config user.email "bot@healthguide.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Daily articles $(date +%Y-%m-%d)"
+          git push

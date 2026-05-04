@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quantumplay786-web.github.io/BHCHEALTHGUIDE-/sitemap.xml

@@ -1,0 +1,1847 @@
+[
+ {
+  "name": "Measles",
+  "category": "viruses",
+  "slug": "measles"
+ },
+ {
+  "name": "Mumps",
+  "category": "viruses",
+  "slug": "mumps"
+ },
+ {
+  "name": "Rubella",
+  "category": "viruses",
+  "slug": "rubella"
+ },
+ {
+  "name": "Chickenpox",
+  "category": "viruses",
+  "slug": "chickenpox"
+ },
+ {
+  "name": "Shingles",
+  "category": "viruses",
+  "slug": "shingles"
+ },
+ {
+  "name": "Polio",
+  "category": "viruses",
+  "slug": "polio"
+ },
+ {
+  "name": "Rabies",
+  "category": "viruses",
+  "slug": "rabies"
+ },
+ {
+  "name": "Ebola Virus Disease",
+  "category": "viruses",
+  "slug": "ebola-virus-disease"
+ },
+ {
+  "name": "Zika Virus",
+  "category": "viruses",
+  "slug": "zika-virus"
+ },
+ {
+  "name": "Mpox",
+  "category": "viruses",
+  "slug": "mpox"
+ },
+ {
+  "name": "Yellow Fever",
+  "category": "viruses",
+  "slug": "yellow-fever"
+ },
+ {
+  "name": "West Nile Virus",
+  "category": "viruses",
+  "slug": "west-nile-virus"
+ },
+ {
+  "name": "HIV and AIDS",
+  "category": "viruses",
+  "slug": "hiv-and-aids"
+ },
+ {
+  "name": "Herpes Simplex",
+  "category": "viruses",
+  "slug": "herpes-simplex"
+ },
+ {
+  "name": "Norovirus",
+  "category": "viruses",
+  "slug": "norovirus"
+ },
+ {
+  "name": "Rotavirus",
+  "category": "viruses",
+  "slug": "rotavirus"
+ },
+ {
+  "name": "Hepatitis A",
+  "category": "viruses",
+  "slug": "hepatitis-a"
+ },
+ {
+  "name": "Hepatitis B",
+  "category": "viruses",
+  "slug": "hepatitis-b"
+ },
+ {
+  "name": "Hepatitis C",
+  "category": "viruses",
+  "slug": "hepatitis-c"
+ },
+ {
+  "name": "Human Papillomavirus (HPV)",
+  "category": "viruses",
+  "slug": "human-papillomavirus-hpv"
+ },
+ {
+  "name": "Common Cold",
+  "category": "viruses",
+  "slug": "common-cold"
+ },
+ {
+  "name": "Infectious Mononucleosis",
+  "category": "viruses",
+  "slug": "infectious-mononucleosis"
+ },
+ {
+  "name": "Chikungunya",
+  "category": "viruses",
+  "slug": "chikungunya"
+ },
+ {
+  "name": "Hantavirus",
+  "category": "viruses",
+  "slug": "hantavirus"
+ },
+ {
+  "name": "Cytomegalovirus",
+  "category": "viruses",
+  "slug": "cytomegalovirus"
+ },
+ {
+  "name": "Lassa Fever",
+  "category": "viruses",
+  "slug": "lassa-fever"
+ },
+ {
+  "name": "Marburg Virus Disease",
+  "category": "viruses",
+  "slug": "marburg-virus-disease"
+ },
+ {
+  "name": "Japanese Encephalitis",
+  "category": "viruses",
+  "slug": "japanese-encephalitis"
+ },
+ {
+  "name": "Hepatitis E",
+  "category": "viruses",
+  "slug": "hepatitis-e"
+ },
+ {
+  "name": "Adenovirus Infection",
+  "category": "viruses",
+  "slug": "adenovirus-infection"
+ },
+ {
+  "name": "Cholera",
+  "category": "bacteria",
+  "slug": "cholera"
+ },
+ {
+  "name": "Lyme Disease",
+  "category": "bacteria",
+  "slug": "lyme-disease"
+ },
+ {
+  "name": "Meningitis",
+  "category": "bacteria",
+  "slug": "meningitis"
+ },
+ {
+  "name": "Whooping Cough",
+  "category": "bacteria",
+  "slug": "whooping-cough"
+ },
+ {
+  "name": "Tetanus",
+  "category": "bacteria",
+  "slug": "tetanus"
+ },
+ {
+  "name": "Salmonella Infection",
+  "category": "bacteria",
+  "slug": "salmonella-infection"
+ },
+ {
+  "name": "Diphtheria",
+  "category": "bacteria",
+  "slug": "diphtheria"
+ },
+ {
+  "name": "Sepsis",
+  "category": "bacteria",
+  "slug": "sepsis"
+ },
+ {
+  "name": "Strep Throat",
+  "category": "bacteria",
+  "slug": "strep-throat"
+ },
+ {
+  "name": "MRSA Infection",
+  "category": "bacteria",
+  "slug": "mrsa-infection"
+ },
+ {
+  "name": "Leprosy",
+  "category": "bacteria",
+  "slug": "leprosy"
+ },
+ {
+  "name": "Anthrax",
+  "category": "bacteria",
+  "slug": "anthrax"
+ },
+ {
+  "name": "Brucellosis",
+  "category": "bacteria",
+  "slug": "brucellosis"
+ },
+ {
+  "name": "Plague",
+  "category": "bacteria",
+  "slug": "plague"
+ },
+ {
+  "name": "Legionnaires Disease",
+  "category": "bacteria",
+  "slug": "legionnaires-disease"
+ },
+ {
+  "name": "Scarlet Fever",
+  "category": "bacteria",
+  "slug": "scarlet-fever"
+ },
+ {
+  "name": "Botulism",
+  "category": "bacteria",
+  "slug": "botulism"
+ },
+ {
+  "name": "Clostridioides difficile Infection",
+  "category": "bacteria",
+  "slug": "clostridioides-difficile-infection"
+ },
+ {
+  "name": "Typhus",
+  "category": "bacteria",
+  "slug": "typhus"
+ },
+ {
+  "name": "Leptospirosis",
+  "category": "bacteria",
+  "slug": "leptospirosis"
+ },
+ {
+  "name": "Listeriosis",
+  "category": "bacteria",
+  "slug": "listeriosis"
+ },
+ {
+  "name": "Rocky Mountain Spotted Fever",
+  "category": "bacteria",
+  "slug": "rocky-mountain-spotted-fever"
+ },
+ {
+  "name": "Tularemia",
+  "category": "bacteria",
+  "slug": "tularemia"
+ },
+ {
+  "name": "Malaria",
+  "category": "parasites",
+  "slug": "malaria"
+ },
+ {
+  "name": "Giardiasis",
+  "category": "parasites",
+  "slug": "giardiasis"
+ },
+ {
+  "name": "Amoebiasis",
+  "category": "parasites",
+  "slug": "amoebiasis"
+ },
+ {
+  "name": "Schistosomiasis",
+  "category": "parasites",
+  "slug": "schistosomiasis"
+ },
+ {
+  "name": "Leishmaniasis",
+  "category": "parasites",
+  "slug": "leishmaniasis"
+ },
+ {
+  "name": "Chagas Disease",
+  "category": "parasites",
+  "slug": "chagas-disease"
+ },
+ {
+  "name": "Toxoplasmosis",
+  "category": "parasites",
+  "slug": "toxoplasmosis"
+ },
+ {
+  "name": "Hookworm Infection",
+  "category": "parasites",
+  "slug": "hookworm-infection"
+ },
+ {
+  "name": "Roundworm Infection",
+  "category": "parasites",
+  "slug": "roundworm-infection"
+ },
+ {
+  "name": "Tapeworm Infection",
+  "category": "parasites",
+  "slug": "tapeworm-infection"
+ },
+ {
+  "name": "Lymphatic Filariasis",
+  "category": "parasites",
+  "slug": "lymphatic-filariasis"
+ },
+ {
+  "name": "River Blindness",
+  "category": "parasites",
+  "slug": "river-blindness"
+ },
+ {
+  "name": "African Sleeping Sickness",
+  "category": "parasites",
+  "slug": "african-sleeping-sickness"
+ },
+ {
+  "name": "Head Lice",
+  "category": "parasites",
+  "slug": "head-lice"
+ },
+ {
+  "name": "Pinworm Infection",
+  "category": "parasites",
+  "slug": "pinworm-infection"
+ },
+ {
+  "name": "Cryptosporidiosis",
+  "category": "parasites",
+  "slug": "cryptosporidiosis"
+ },
+ {
+  "name": "Trichinosis",
+  "category": "parasites",
+  "slug": "trichinosis"
+ },
+ {
+  "name": "Cysticercosis",
+  "category": "parasites",
+  "slug": "cysticercosis"
+ },
+ {
+  "name": "Chronic Fatigue Syndrome",
+  "category": "chronic",
+  "slug": "chronic-fatigue-syndrome"
+ },
+ {
+  "name": "Fibromyalgia",
+  "category": "chronic",
+  "slug": "fibromyalgia"
+ },
+ {
+  "name": "Sleep Apnea",
+  "category": "chronic",
+  "slug": "sleep-apnea"
+ },
+ {
+  "name": "Obesity",
+  "category": "chronic",
+  "slug": "obesity"
+ },
+ {
+  "name": "Chronic Pain",
+  "category": "chronic",
+  "slug": "chronic-pain"
+ },
+ {
+  "name": "Vertigo",
+  "category": "chronic",
+  "slug": "vertigo"
+ },
+ {
+  "name": "Restless Legs Syndrome",
+  "category": "chronic",
+  "slug": "restless-legs-syndrome"
+ },
+ {
+  "name": "Metabolic Syndrome",
+  "category": "chronic",
+  "slug": "metabolic-syndrome"
+ },
+ {
+  "name": "Long COVID",
+  "category": "chronic",
+  "slug": "long-covid"
+ },
+ {
+  "name": "Coronary Artery Disease",
+  "category": "cardiovascular",
+  "slug": "coronary-artery-disease"
+ },
+ {
+  "name": "Heart Attack",
+  "category": "cardiovascular",
+  "slug": "heart-attack"
+ },
+ {
+  "name": "Heart Failure",
+  "category": "cardiovascular",
+  "slug": "heart-failure"
+ },
+ {
+  "name": "Atrial Fibrillation",
+  "category": "cardiovascular",
+  "slug": "atrial-fibrillation"
+ },
+ {
+  "name": "High Cholesterol",
+  "category": "cardiovascular",
+  "slug": "high-cholesterol"
+ },
+ {
+  "name": "Angina",
+  "category": "cardiovascular",
+  "slug": "angina"
+ },
+ {
+  "name": "Peripheral Artery Disease",
+  "category": "cardiovascular",
+  "slug": "peripheral-artery-disease"
+ },
+ {
+  "name": "Deep Vein Thrombosis",
+  "category": "cardiovascular",
+  "slug": "deep-vein-thrombosis"
+ },
+ {
+  "name": "Varicose Veins",
+  "category": "cardiovascular",
+  "slug": "varicose-veins"
+ },
+ {
+  "name": "Cardiomyopathy",
+  "category": "cardiovascular",
+  "slug": "cardiomyopathy"
+ },
+ {
+  "name": "Congenital Heart Disease",
+  "category": "cardiovascular",
+  "slug": "congenital-heart-disease"
+ },
+ {
+  "name": "Aortic Aneurysm",
+  "category": "cardiovascular",
+  "slug": "aortic-aneurysm"
+ },
+ {
+  "name": "Low Blood Pressure",
+  "category": "cardiovascular",
+  "slug": "low-blood-pressure"
+ },
+ {
+  "name": "Rheumatic Heart Disease",
+  "category": "cardiovascular",
+  "slug": "rheumatic-heart-disease"
+ },
+ {
+  "name": "Heart Valve Disease",
+  "category": "cardiovascular",
+  "slug": "heart-valve-disease"
+ },
+ {
+  "name": "Myocarditis",
+  "category": "cardiovascular",
+  "slug": "myocarditis"
+ },
+ {
+  "name": "Pericarditis",
+  "category": "cardiovascular",
+  "slug": "pericarditis"
+ },
+ {
+  "name": "Cardiac Arrest",
+  "category": "cardiovascular",
+  "slug": "cardiac-arrest"
+ },
+ {
+  "name": "Raynaud Phenomenon",
+  "category": "cardiovascular",
+  "slug": "raynaud-phenomenon"
+ },
+ {
+  "name": "COPD",
+  "category": "respiratory",
+  "slug": "copd"
+ },
+ {
+  "name": "Acute Bronchitis",
+  "category": "respiratory",
+  "slug": "acute-bronchitis"
+ },
+ {
+  "name": "Emphysema",
+  "category": "respiratory",
+  "slug": "emphysema"
+ },
+ {
+  "name": "Cystic Fibrosis",
+  "category": "respiratory",
+  "slug": "cystic-fibrosis"
+ },
+ {
+  "name": "Pulmonary Embolism",
+  "category": "respiratory",
+  "slug": "pulmonary-embolism"
+ },
+ {
+  "name": "Pulmonary Fibrosis",
+  "category": "respiratory",
+  "slug": "pulmonary-fibrosis"
+ },
+ {
+  "name": "Sinusitis",
+  "category": "respiratory",
+  "slug": "sinusitis"
+ },
+ {
+  "name": "Pleurisy",
+  "category": "respiratory",
+  "slug": "pleurisy"
+ },
+ {
+  "name": "Bronchiectasis",
+  "category": "respiratory",
+  "slug": "bronchiectasis"
+ },
+ {
+  "name": "Sarcoidosis",
+  "category": "respiratory",
+  "slug": "sarcoidosis"
+ },
+ {
+  "name": "Pulmonary Hypertension",
+  "category": "respiratory",
+  "slug": "pulmonary-hypertension"
+ },
+ {
+  "name": "Pneumothorax",
+  "category": "respiratory",
+  "slug": "pneumothorax"
+ },
+ {
+  "name": "Laryngitis",
+  "category": "respiratory",
+  "slug": "laryngitis"
+ },
+ {
+  "name": "Acid Reflux (GERD)",
+  "category": "digestive",
+  "slug": "acid-reflux-gerd"
+ },
+ {
+  "name": "Peptic Ulcer",
+  "category": "digestive",
+  "slug": "peptic-ulcer"
+ },
+ {
+  "name": "Irritable Bowel Syndrome",
+  "category": "digestive",
+  "slug": "irritable-bowel-syndrome"
+ },
+ {
+  "name": "Crohn's Disease",
+  "category": "digestive",
+  "slug": "crohn-s-disease"
+ },
+ {
+  "name": "Ulcerative Colitis",
+  "category": "digestive",
+  "slug": "ulcerative-colitis"
+ },
+ {
+  "name": "Celiac Disease",
+  "category": "digestive",
+  "slug": "celiac-disease"
+ },
+ {
+  "name": "Gallstones",
+  "category": "digestive",
+  "slug": "gallstones"
+ },
+ {
+  "name": "Pancreatitis",
+  "category": "digestive",
+  "slug": "pancreatitis"
+ },
+ {
+  "name": "Fatty Liver Disease",
+  "category": "digestive",
+  "slug": "fatty-liver-disease"
+ },
+ {
+  "name": "Cirrhosis",
+  "category": "digestive",
+  "slug": "cirrhosis"
+ },
+ {
+  "name": "Appendicitis",
+  "category": "digestive",
+  "slug": "appendicitis"
+ },
+ {
+  "name": "Diverticulitis",
+  "category": "digestive",
+  "slug": "diverticulitis"
+ },
+ {
+  "name": "Hemorrhoids",
+  "category": "digestive",
+  "slug": "hemorrhoids"
+ },
+ {
+  "name": "Constipation",
+  "category": "digestive",
+  "slug": "constipation"
+ },
+ {
+  "name": "Gastroenteritis",
+  "category": "digestive",
+  "slug": "gastroenteritis"
+ },
+ {
+  "name": "Lactose Intolerance",
+  "category": "digestive",
+  "slug": "lactose-intolerance"
+ },
+ {
+  "name": "Helicobacter pylori Infection",
+  "category": "digestive",
+  "slug": "helicobacter-pylori-infection"
+ },
+ {
+  "name": "Hiatal Hernia",
+  "category": "digestive",
+  "slug": "hiatal-hernia"
+ },
+ {
+  "name": "Food Poisoning",
+  "category": "digestive",
+  "slug": "food-poisoning"
+ },
+ {
+  "name": "Gastritis",
+  "category": "digestive",
+  "slug": "gastritis"
+ },
+ {
+  "name": "Diarrhea",
+  "category": "digestive",
+  "slug": "diarrhea"
+ },
+ {
+  "name": "Liver Failure",
+  "category": "digestive",
+  "slug": "liver-failure"
+ },
+ {
+  "name": "Anal Fissure",
+  "category": "digestive",
+  "slug": "anal-fissure"
+ },
+ {
+  "name": "Breast Cancer",
+  "category": "cancer",
+  "slug": "breast-cancer"
+ },
+ {
+  "name": "Lung Cancer",
+  "category": "cancer",
+  "slug": "lung-cancer"
+ },
+ {
+  "name": "Prostate Cancer",
+  "category": "cancer",
+  "slug": "prostate-cancer"
+ },
+ {
+  "name": "Colorectal Cancer",
+  "category": "cancer",
+  "slug": "colorectal-cancer"
+ },
+ {
+  "name": "Melanoma",
+  "category": "cancer",
+  "slug": "melanoma"
+ },
+ {
+  "name": "Leukemia",
+  "category": "cancer",
+  "slug": "leukemia"
+ },
+ {
+  "name": "Lymphoma",
+  "category": "cancer",
+  "slug": "lymphoma"
+ },
+ {
+  "name": "Cervical Cancer",
+  "category": "cancer",
+  "slug": "cervical-cancer"
+ },
+ {
+  "name": "Ovarian Cancer",
+  "category": "cancer",
+  "slug": "ovarian-cancer"
+ },
+ {
+  "name": "Pancreatic Cancer",
+  "category": "cancer",
+  "slug": "pancreatic-cancer"
+ },
+ {
+  "name": "Liver Cancer",
+  "category": "cancer",
+  "slug": "liver-cancer"
+ },
+ {
+  "name": "Stomach Cancer",
+  "category": "cancer",
+  "slug": "stomach-cancer"
+ },
+ {
+  "name": "Thyroid Cancer",
+  "category": "cancer",
+  "slug": "thyroid-cancer"
+ },
+ {
+  "name": "Bladder Cancer",
+  "category": "cancer",
+  "slug": "bladder-cancer"
+ },
+ {
+  "name": "Kidney Cancer",
+  "category": "cancer",
+  "slug": "kidney-cancer"
+ },
+ {
+  "name": "Oral Cancer",
+  "category": "cancer",
+  "slug": "oral-cancer"
+ },
+ {
+  "name": "Multiple Myeloma",
+  "category": "cancer",
+  "slug": "multiple-myeloma"
+ },
+ {
+  "name": "Esophageal Cancer",
+  "category": "cancer",
+  "slug": "esophageal-cancer"
+ },
+ {
+  "name": "Testicular Cancer",
+  "category": "cancer",
+  "slug": "testicular-cancer"
+ },
+ {
+  "name": "Basal Cell Carcinoma",
+  "category": "cancer",
+  "slug": "basal-cell-carcinoma"
+ },
+ {
+  "name": "Uterine Cancer",
+  "category": "cancer",
+  "slug": "uterine-cancer"
+ },
+ {
+  "name": "Bone Cancer",
+  "category": "cancer",
+  "slug": "bone-cancer"
+ },
+ {
+  "name": "Hypothyroidism",
+  "category": "endocrine",
+  "slug": "hypothyroidism"
+ },
+ {
+  "name": "Hyperthyroidism",
+  "category": "endocrine",
+  "slug": "hyperthyroidism"
+ },
+ {
+  "name": "Prediabetes",
+  "category": "endocrine",
+  "slug": "prediabetes"
+ },
+ {
+  "name": "Cushing Syndrome",
+  "category": "endocrine",
+  "slug": "cushing-syndrome"
+ },
+ {
+  "name": "Addison's Disease",
+  "category": "endocrine",
+  "slug": "addison-s-disease"
+ },
+ {
+  "name": "Goiter",
+  "category": "endocrine",
+  "slug": "goiter"
+ },
+ {
+  "name": "Acromegaly",
+  "category": "endocrine",
+  "slug": "acromegaly"
+ },
+ {
+  "name": "Hyperparathyroidism",
+  "category": "endocrine",
+  "slug": "hyperparathyroidism"
+ },
+ {
+  "name": "Vitamin D Deficiency",
+  "category": "endocrine",
+  "slug": "vitamin-d-deficiency"
+ },
+ {
+  "name": "Hypoglycemia",
+  "category": "endocrine",
+  "slug": "hypoglycemia"
+ },
+ {
+  "name": "Diabetes Insipidus",
+  "category": "endocrine",
+  "slug": "diabetes-insipidus"
+ },
+ {
+  "name": "Growth Hormone Deficiency",
+  "category": "endocrine",
+  "slug": "growth-hormone-deficiency"
+ },
+ {
+  "name": "Pheochromocytoma",
+  "category": "endocrine",
+  "slug": "pheochromocytoma"
+ },
+ {
+  "name": "Low Testosterone",
+  "category": "endocrine",
+  "slug": "low-testosterone"
+ },
+ {
+  "name": "Lupus",
+  "category": "immune",
+  "slug": "lupus"
+ },
+ {
+  "name": "Hay Fever (Allergic Rhinitis)",
+  "category": "immune",
+  "slug": "hay-fever"
+ },
+ {
+  "name": "Food Allergy",
+  "category": "immune",
+  "slug": "food-allergy"
+ },
+ {
+  "name": "Anaphylaxis",
+  "category": "immune",
+  "slug": "anaphylaxis"
+ },
+ {
+  "name": "Sjogren's Syndrome",
+  "category": "immune",
+  "slug": "sjogren-s-syndrome"
+ },
+ {
+  "name": "Hashimoto's Thyroiditis",
+  "category": "immune",
+  "slug": "hashimoto-s-thyroiditis"
+ },
+ {
+  "name": "Graves' Disease",
+  "category": "immune",
+  "slug": "graves-disease"
+ },
+ {
+  "name": "Vasculitis",
+  "category": "immune",
+  "slug": "vasculitis"
+ },
+ {
+  "name": "Primary Immunodeficiency",
+  "category": "immune",
+  "slug": "primary-immunodeficiency"
+ },
+ {
+  "name": "Rheumatoid Arthritis",
+  "category": "immune",
+  "slug": "rheumatoid-arthritis"
+ },
+ {
+  "name": "Myasthenia Gravis",
+  "category": "immune",
+  "slug": "myasthenia-gravis"
+ },
+ {
+  "name": "Dermatomyositis",
+  "category": "immune",
+  "slug": "dermatomyositis"
+ },
+ {
+  "name": "Scleroderma",
+  "category": "immune",
+  "slug": "scleroderma"
+ },
+ {
+  "name": "Allergic Conjunctivitis",
+  "category": "immune",
+  "slug": "allergic-conjunctivitis"
+ },
+ {
+  "name": "Drug Allergy",
+  "category": "immune",
+  "slug": "drug-allergy"
+ },
+ {
+  "name": "Anemia",
+  "category": "blood",
+  "slug": "anemia"
+ },
+ {
+  "name": "Iron Deficiency Anemia",
+  "category": "blood",
+  "slug": "iron-deficiency-anemia"
+ },
+ {
+  "name": "Sickle Cell Disease",
+  "category": "blood",
+  "slug": "sickle-cell-disease"
+ },
+ {
+  "name": "Hemophilia",
+  "category": "blood",
+  "slug": "hemophilia"
+ },
+ {
+  "name": "Thalassemia",
+  "category": "blood",
+  "slug": "thalassemia"
+ },
+ {
+  "name": "Vitamin B12 Deficiency",
+  "category": "blood",
+  "slug": "vitamin-b12-deficiency"
+ },
+ {
+  "name": "Hemochromatosis",
+  "category": "blood",
+  "slug": "hemochromatosis"
+ },
+ {
+  "name": "Thrombocytopenia",
+  "category": "blood",
+  "slug": "thrombocytopenia"
+ },
+ {
+  "name": "Polycythemia Vera",
+  "category": "blood",
+  "slug": "polycythemia-vera"
+ },
+ {
+  "name": "Aplastic Anemia",
+  "category": "blood",
+  "slug": "aplastic-anemia"
+ },
+ {
+  "name": "Von Willebrand Disease",
+  "category": "blood",
+  "slug": "von-willebrand-disease"
+ },
+ {
+  "name": "Neutropenia",
+  "category": "blood",
+  "slug": "neutropenia"
+ },
+ {
+  "name": "Osteoarthritis",
+  "category": "bones",
+  "slug": "osteoarthritis"
+ },
+ {
+  "name": "Osteoporosis",
+  "category": "bones",
+  "slug": "osteoporosis"
+ },
+ {
+  "name": "Gout",
+  "category": "bones",
+  "slug": "gout"
+ },
+ {
+  "name": "Scoliosis",
+  "category": "bones",
+  "slug": "scoliosis"
+ },
+ {
+  "name": "Low Back Pain",
+  "category": "bones",
+  "slug": "low-back-pain"
+ },
+ {
+  "name": "Carpal Tunnel Syndrome",
+  "category": "bones",
+  "slug": "carpal-tunnel-syndrome"
+ },
+ {
+  "name": "Tendinitis",
+  "category": "bones",
+  "slug": "tendinitis"
+ },
+ {
+  "name": "Frozen Shoulder",
+  "category": "bones",
+  "slug": "frozen-shoulder"
+ },
+ {
+  "name": "Sciatica",
+  "category": "bones",
+  "slug": "sciatica"
+ },
+ {
+  "name": "Plantar Fasciitis",
+  "category": "bones",
+  "slug": "plantar-fasciitis"
+ },
+ {
+  "name": "Rickets",
+  "category": "bones",
+  "slug": "rickets"
+ },
+ {
+  "name": "Ankylosing Spondylitis",
+  "category": "bones",
+  "slug": "ankylosing-spondylitis"
+ },
+ {
+  "name": "Herniated Disc",
+  "category": "bones",
+  "slug": "herniated-disc"
+ },
+ {
+  "name": "Bursitis",
+  "category": "bones",
+  "slug": "bursitis"
+ },
+ {
+  "name": "Osteomyelitis",
+  "category": "bones",
+  "slug": "osteomyelitis"
+ },
+ {
+  "name": "Paget's Disease of Bone",
+  "category": "bones",
+  "slug": "paget-s-disease-of-bone"
+ },
+ {
+  "name": "Tennis Elbow",
+  "category": "bones",
+  "slug": "tennis-elbow"
+ },
+ {
+  "name": "Muscular Dystrophy",
+  "category": "bones",
+  "slug": "muscular-dystrophy"
+ },
+ {
+  "name": "Multiple Sclerosis",
+  "category": "neuro",
+  "slug": "multiple-sclerosis"
+ },
+ {
+  "name": "Brain Tumor",
+  "category": "neuro",
+  "slug": "brain-tumor"
+ },
+ {
+  "name": "Cerebral Palsy",
+  "category": "neuro",
+  "slug": "cerebral-palsy"
+ },
+ {
+  "name": "Amyotrophic Lateral Sclerosis (ALS)",
+  "category": "neuro",
+  "slug": "amyotrophic-lateral-sclerosis-als"
+ },
+ {
+  "name": "Huntington's Disease",
+  "category": "neuro",
+  "slug": "huntington-s-disease"
+ },
+ {
+  "name": "Bell's Palsy",
+  "category": "neuro",
+  "slug": "bell-s-palsy"
+ },
+ {
+  "name": "Peripheral Neuropathy",
+  "category": "neuro",
+  "slug": "peripheral-neuropathy"
+ },
+ {
+  "name": "Guillain-Barre Syndrome",
+  "category": "neuro",
+  "slug": "guillain-barre-syndrome"
+ },
+ {
+  "name": "Hydrocephalus",
+  "category": "neuro",
+  "slug": "hydrocephalus"
+ },
+ {
+  "name": "Concussion",
+  "category": "neuro",
+  "slug": "concussion"
+ },
+ {
+  "name": "Tourette Syndrome",
+  "category": "neuro",
+  "slug": "tourette-syndrome"
+ },
+ {
+  "name": "Dementia",
+  "category": "neuro",
+  "slug": "dementia"
+ },
+ {
+  "name": "Trigeminal Neuralgia",
+  "category": "neuro",
+  "slug": "trigeminal-neuralgia"
+ },
+ {
+  "name": "Narcolepsy",
+  "category": "neuro",
+  "slug": "narcolepsy"
+ },
+ {
+  "name": "Encephalitis",
+  "category": "neuro",
+  "slug": "encephalitis"
+ },
+ {
+  "name": "Spinal Cord Injury",
+  "category": "neuro",
+  "slug": "spinal-cord-injury"
+ },
+ {
+  "name": "Essential Tremor",
+  "category": "neuro",
+  "slug": "essential-tremor"
+ },
+ {
+  "name": "Cluster Headache",
+  "category": "neuro",
+  "slug": "cluster-headache"
+ },
+ {
+  "name": "Tension Headache",
+  "category": "neuro",
+  "slug": "tension-headache"
+ },
+ {
+  "name": "Bipolar Disorder",
+  "category": "mental",
+  "slug": "bipolar-disorder"
+ },
+ {
+  "name": "Schizophrenia",
+  "category": "mental",
+  "slug": "schizophrenia"
+ },
+ {
+  "name": "ADHD",
+  "category": "mental",
+  "slug": "adhd"
+ },
+ {
+  "name": "Insomnia",
+  "category": "mental",
+  "slug": "insomnia"
+ },
+ {
+  "name": "Autism Spectrum Disorder",
+  "category": "mental",
+  "slug": "autism-spectrum-disorder"
+ },
+ {
+  "name": "Panic Disorder",
+  "category": "mental",
+  "slug": "panic-disorder"
+ },
+ {
+  "name": "Eating Disorders",
+  "category": "mental",
+  "slug": "eating-disorders"
+ },
+ {
+  "name": "Borderline Personality Disorder",
+  "category": "mental",
+  "slug": "borderline-personality-disorder"
+ },
+ {
+  "name": "Substance Use Disorder",
+  "category": "mental",
+  "slug": "substance-use-disorder"
+ },
+ {
+  "name": "Social Anxiety Disorder",
+  "category": "mental",
+  "slug": "social-anxiety-disorder"
+ },
+ {
+  "name": "Seasonal Affective Disorder",
+  "category": "mental",
+  "slug": "seasonal-affective-disorder"
+ },
+ {
+  "name": "Generalized Anxiety Disorder",
+  "category": "mental",
+  "slug": "generalized-anxiety-disorder"
+ },
+ {
+  "name": "Postpartum Depression",
+  "category": "mental",
+  "slug": "postpartum-depression"
+ },
+ {
+  "name": "Persistent Depressive Disorder",
+  "category": "mental",
+  "slug": "persistent-depressive-disorder"
+ },
+ {
+  "name": "Specific Phobias",
+  "category": "psychology",
+  "slug": "specific-phobias"
+ },
+ {
+  "name": "Narcissistic Personality Disorder",
+  "category": "psychology",
+  "slug": "narcissistic-personality-disorder"
+ },
+ {
+  "name": "Dissociative Disorders",
+  "category": "psychology",
+  "slug": "dissociative-disorders"
+ },
+ {
+  "name": "Body Dysmorphic Disorder",
+  "category": "psychology",
+  "slug": "body-dysmorphic-disorder"
+ },
+ {
+  "name": "Hoarding Disorder",
+  "category": "psychology",
+  "slug": "hoarding-disorder"
+ },
+ {
+  "name": "Adjustment Disorder",
+  "category": "psychology",
+  "slug": "adjustment-disorder"
+ },
+ {
+  "name": "Chronic Stress",
+  "category": "psychology",
+  "slug": "chronic-stress"
+ },
+ {
+  "name": "Burnout",
+  "category": "psychology",
+  "slug": "burnout"
+ },
+ {
+  "name": "Grief and Loss",
+  "category": "psychology",
+  "slug": "grief-and-loss"
+ },
+ {
+  "name": "Agoraphobia",
+  "category": "psychology",
+  "slug": "agoraphobia"
+ },
+ {
+  "name": "Separation Anxiety Disorder",
+  "category": "psychology",
+  "slug": "separation-anxiety-disorder"
+ },
+ {
+  "name": "Hypochondria (Illness Anxiety Disorder)",
+  "category": "psychology",
+  "slug": "hypochondria"
+ },
+ {
+  "name": "Trichotillomania",
+  "category": "psychology",
+  "slug": "trichotillomania"
+ },
+ {
+  "name": "Psoriasis",
+  "category": "skin",
+  "slug": "psoriasis"
+ },
+ {
+  "name": "Rosacea",
+  "category": "skin",
+  "slug": "rosacea"
+ },
+ {
+  "name": "Ringworm",
+  "category": "skin",
+  "slug": "ringworm"
+ },
+ {
+  "name": "Vitiligo",
+  "category": "skin",
+  "slug": "vitiligo"
+ },
+ {
+  "name": "Hives",
+  "category": "skin",
+  "slug": "hives"
+ },
+ {
+  "name": "Scabies",
+  "category": "skin",
+  "slug": "scabies"
+ },
+ {
+  "name": "Cold Sores",
+  "category": "skin",
+  "slug": "cold-sores"
+ },
+ {
+  "name": "Alopecia Areata",
+  "category": "skin",
+  "slug": "alopecia-areata"
+ },
+ {
+  "name": "Impetigo",
+  "category": "skin",
+  "slug": "impetigo"
+ },
+ {
+  "name": "Cellulitis",
+  "category": "skin",
+  "slug": "cellulitis"
+ },
+ {
+  "name": "Warts",
+  "category": "skin",
+  "slug": "warts"
+ },
+ {
+  "name": "Melasma",
+  "category": "skin",
+  "slug": "melasma"
+ },
+ {
+  "name": "Dandruff",
+  "category": "skin",
+  "slug": "dandruff"
+ },
+ {
+  "name": "Athlete's Foot",
+  "category": "skin",
+  "slug": "athlete-s-foot"
+ },
+ {
+  "name": "Seborrheic Dermatitis",
+  "category": "skin",
+  "slug": "seborrheic-dermatitis"
+ },
+ {
+  "name": "Hyperhidrosis",
+  "category": "skin",
+  "slug": "hyperhidrosis"
+ },
+ {
+  "name": "Contact Dermatitis",
+  "category": "skin",
+  "slug": "contact-dermatitis"
+ },
+ {
+  "name": "Folliculitis",
+  "category": "skin",
+  "slug": "folliculitis"
+ },
+ {
+  "name": "Keloids",
+  "category": "skin",
+  "slug": "keloids"
+ },
+ {
+  "name": "Sunburn",
+  "category": "skin",
+  "slug": "sunburn"
+ },
+ {
+  "name": "Boils",
+  "category": "skin",
+  "slug": "boils"
+ },
+ {
+  "name": "Cataracts",
+  "category": "eye-ear",
+  "slug": "cataracts"
+ },
+ {
+  "name": "Glaucoma",
+  "category": "eye-ear",
+  "slug": "glaucoma"
+ },
+ {
+  "name": "Conjunctivitis (Pink Eye)",
+  "category": "eye-ear",
+  "slug": "conjunctivitis-pink-eye"
+ },
+ {
+  "name": "Macular Degeneration",
+  "category": "eye-ear",
+  "slug": "macular-degeneration"
+ },
+ {
+  "name": "Dry Eye Syndrome",
+  "category": "eye-ear",
+  "slug": "dry-eye-syndrome"
+ },
+ {
+  "name": "Diabetic Retinopathy",
+  "category": "eye-ear",
+  "slug": "diabetic-retinopathy"
+ },
+ {
+  "name": "Myopia (Nearsightedness)",
+  "category": "eye-ear",
+  "slug": "myopia"
+ },
+ {
+  "name": "Ear Infection",
+  "category": "eye-ear",
+  "slug": "ear-infection"
+ },
+ {
+  "name": "Tinnitus",
+  "category": "eye-ear",
+  "slug": "tinnitus"
+ },
+ {
+  "name": "Hearing Loss",
+  "category": "eye-ear",
+  "slug": "hearing-loss"
+ },
+ {
+  "name": "Tonsillitis",
+  "category": "eye-ear",
+  "slug": "tonsillitis"
+ },
+ {
+  "name": "Stye",
+  "category": "eye-ear",
+  "slug": "stye"
+ },
+ {
+  "name": "Strabismus",
+  "category": "eye-ear",
+  "slug": "strabismus"
+ },
+ {
+  "name": "Swimmer's Ear",
+  "category": "eye-ear",
+  "slug": "swimmer-s-ear"
+ },
+ {
+  "name": "Meniere's Disease",
+  "category": "eye-ear",
+  "slug": "meniere-s-disease"
+ },
+ {
+  "name": "Retinal Detachment",
+  "category": "eye-ear",
+  "slug": "retinal-detachment"
+ },
+ {
+  "name": "Nosebleeds",
+  "category": "eye-ear",
+  "slug": "nosebleeds"
+ },
+ {
+  "name": "Dental Cavities",
+  "category": "dental",
+  "slug": "dental-cavities"
+ },
+ {
+  "name": "Gingivitis",
+  "category": "dental",
+  "slug": "gingivitis"
+ },
+ {
+  "name": "Periodontitis",
+  "category": "dental",
+  "slug": "periodontitis"
+ },
+ {
+  "name": "Tooth Abscess",
+  "category": "dental",
+  "slug": "tooth-abscess"
+ },
+ {
+  "name": "Dry Mouth",
+  "category": "dental",
+  "slug": "dry-mouth"
+ },
+ {
+  "name": "Mouth Ulcers",
+  "category": "dental",
+  "slug": "mouth-ulcers"
+ },
+ {
+  "name": "Bruxism (Teeth Grinding)",
+  "category": "dental",
+  "slug": "bruxism"
+ },
+ {
+  "name": "Oral Thrush",
+  "category": "dental",
+  "slug": "oral-thrush"
+ },
+ {
+  "name": "Wisdom Tooth Problems",
+  "category": "dental",
+  "slug": "wisdom-tooth-problems"
+ },
+ {
+  "name": "Bad Breath",
+  "category": "dental",
+  "slug": "bad-breath"
+ },
+ {
+  "name": "TMJ Disorder",
+  "category": "dental",
+  "slug": "tmj-disorder"
+ },
+ {
+  "name": "Tooth Sensitivity",
+  "category": "dental",
+  "slug": "tooth-sensitivity"
+ },
+ {
+  "name": "Urinary Tract Infection",
+  "category": "urinary",
+  "slug": "urinary-tract-infection"
+ },
+ {
+  "name": "Kidney Stones",
+  "category": "urinary",
+  "slug": "kidney-stones"
+ },
+ {
+  "name": "Chronic Kidney Disease",
+  "category": "urinary",
+  "slug": "chronic-kidney-disease"
+ },
+ {
+  "name": "Kidney Infection",
+  "category": "urinary",
+  "slug": "kidney-infection"
+ },
+ {
+  "name": "Enlarged Prostate (BPH)",
+  "category": "urinary",
+  "slug": "enlarged-prostate-bph"
+ },
+ {
+  "name": "Overactive Bladder",
+  "category": "urinary",
+  "slug": "overactive-bladder"
+ },
+ {
+  "name": "Urinary Incontinence",
+  "category": "urinary",
+  "slug": "urinary-incontinence"
+ },
+ {
+  "name": "Nephrotic Syndrome",
+  "category": "urinary",
+  "slug": "nephrotic-syndrome"
+ },
+ {
+  "name": "Polycystic Kidney Disease",
+  "category": "urinary",
+  "slug": "polycystic-kidney-disease"
+ },
+ {
+  "name": "Interstitial Cystitis",
+  "category": "urinary",
+  "slug": "interstitial-cystitis"
+ },
+ {
+  "name": "Glomerulonephritis",
+  "category": "urinary",
+  "slug": "glomerulonephritis"
+ },
+ {
+  "name": "Acute Kidney Injury",
+  "category": "urinary",
+  "slug": "acute-kidney-injury"
+ },
+ {
+  "name": "Polycystic Ovary Syndrome (PCOS)",
+  "category": "womens",
+  "slug": "polycystic-ovary-syndrome-pcos"
+ },
+ {
+  "name": "Endometriosis",
+  "category": "womens",
+  "slug": "endometriosis"
+ },
+ {
+  "name": "Uterine Fibroids",
+  "category": "womens",
+  "slug": "uterine-fibroids"
+ },
+ {
+  "name": "Menopause",
+  "category": "womens",
+  "slug": "menopause"
+ },
+ {
+  "name": "Preeclampsia",
+  "category": "womens",
+  "slug": "preeclampsia"
+ },
+ {
+  "name": "Gestational Diabetes",
+  "category": "womens",
+  "slug": "gestational-diabetes"
+ },
+ {
+  "name": "Menstrual Cramps",
+  "category": "womens",
+  "slug": "menstrual-cramps"
+ },
+ {
+  "name": "Ovarian Cysts",
+  "category": "womens",
+  "slug": "ovarian-cysts"
+ },
+ {
+  "name": "Vaginal Yeast Infection",
+  "category": "womens",
+  "slug": "vaginal-yeast-infection"
+ },
+ {
+  "name": "Infertility",
+  "category": "womens",
+  "slug": "infertility"
+ },
+ {
+  "name": "Pelvic Inflammatory Disease",
+  "category": "womens",
+  "slug": "pelvic-inflammatory-disease"
+ },
+ {
+  "name": "Mastitis",
+  "category": "womens",
+  "slug": "mastitis"
+ },
+ {
+  "name": "Bacterial Vaginosis",
+  "category": "womens",
+  "slug": "bacterial-vaginosis"
+ },
+ {
+  "name": "Heavy Menstrual Bleeding",
+  "category": "womens",
+  "slug": "heavy-menstrual-bleeding"
+ },
+ {
+  "name": "Premenstrual Syndrome",
+  "category": "womens",
+  "slug": "premenstrual-syndrome"
+ },
+ {
+  "name": "Morning Sickness",
+  "category": "womens",
+  "slug": "morning-sickness"
+ },
+ {
+  "name": "Fibrocystic Breasts",
+  "category": "womens",
+  "slug": "fibrocystic-breasts"
+ },
+ {
+  "name": "Gonorrhea",
+  "category": "sexual",
+  "slug": "gonorrhea"
+ },
+ {
+  "name": "Chlamydia",
+  "category": "sexual",
+  "slug": "chlamydia"
+ },
+ {
+  "name": "Syphilis",
+  "category": "sexual",
+  "slug": "syphilis"
+ },
+ {
+  "name": "Genital Herpes",
+  "category": "sexual",
+  "slug": "genital-herpes"
+ },
+ {
+  "name": "Trichomoniasis",
+  "category": "sexual",
+  "slug": "trichomoniasis"
+ },
+ {
+  "name": "Erectile Dysfunction",
+  "category": "sexual",
+  "slug": "erectile-dysfunction"
+ },
+ {
+  "name": "Genital Warts",
+  "category": "sexual",
+  "slug": "genital-warts"
+ },
+ {
+  "name": "Premature Ejaculation",
+  "category": "sexual",
+  "slug": "premature-ejaculation"
+ },
+ {
+  "name": "Pubic Lice",
+  "category": "sexual",
+  "slug": "pubic-lice"
+ },
+ {
+  "name": "Chancroid",
+  "category": "sexual",
+  "slug": "chancroid"
+ },
+ {
+  "name": "Hand Foot and Mouth Disease",
+  "category": "children",
+  "slug": "hand-foot-and-mouth-disease"
+ },
+ {
+  "name": "Kawasaki Disease",
+  "category": "children",
+  "slug": "kawasaki-disease"
+ },
+ {
+  "name": "Croup",
+  "category": "children",
+  "slug": "croup"
+ },
+ {
+  "name": "Respiratory Syncytial Virus (RSV)",
+  "category": "children",
+  "slug": "respiratory-syncytial-virus-rsv"
+ },
+ {
+  "name": "Colic",
+  "category": "children",
+  "slug": "colic"
+ },
+ {
+  "name": "Diaper Rash",
+  "category": "children",
+  "slug": "diaper-rash"
+ },
+ {
+  "name": "Teething",
+  "category": "children",
+  "slug": "teething"
+ },
+ {
+  "name": "Childhood Obesity",
+  "category": "children",
+  "slug": "childhood-obesity"
+ },
+ {
+  "name": "Febrile Seizures",
+  "category": "children",
+  "slug": "febrile-seizures"
+ },
+ {
+  "name": "Roseola",
+  "category": "children",
+  "slug": "roseola"
+ },
+ {
+  "name": "Fifth Disease",
+  "category": "children",
+  "slug": "fifth-disease"
+ },
+ {
+  "name": "Bedwetting",
+  "category": "children",
+  "slug": "bedwetting"
+ },
+ {
+  "name": "Lead Poisoning in Children",
+  "category": "children",
+  "slug": "lead-poisoning-in-children"
+ },
+ {
+  "name": "Cradle Cap",
+  "category": "children",
+  "slug": "cradle-cap"
+ },
+ {
+  "name": "Childhood Anemia",
+  "category": "children",
+  "slug": "childhood-anemia"
+ },
+ {
+  "name": "Pediatric Ear Infections",
+  "category": "children",
+  "slug": "pediatric-ear-infections"
+ },
+ {
+  "name": "Rheumatic Fever",
+  "category": "children",
+  "slug": "rheumatic-fever"
+ },
+ {
+  "name": "Failure to Thrive",
+  "category": "children",
+  "slug": "failure-to-thrive"
+ }
+]

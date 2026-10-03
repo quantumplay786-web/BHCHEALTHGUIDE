@@ -1,0 +1,628 @@
+{
+ "viruses": {
+  "slug": "viruses",
+  "h1": "Viral Diseases",
+  "blurb": "Viruses are microscopic infectious agents that can only replicate inside living cells. From the common cold to COVID-19, viral diseases range from mild to serious and potentially fatal. Browse our reviewed by experts guides on symptoms, transmission, and treatment.",
+  "image": "https://images.unsplash.com/photo-1584118624012-df056829fbd0?w=600&q=80",
+  "subs": [
+   {
+    "color": "blue",
+    "name": "Coronaviruses",
+    "desc": "COVID-19, MERS, SARS",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 48 48\" width=\"26\"><circle cx=\"24\" cy=\"24\" r=\"10\" stroke=\"#1a8fd1\" stroke-width=\"2.5\"></circle><circle cx=\"24\" cy=\"24\" fill=\"#1a8fd1\" fill-opacity=\".25\" r=\"4\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2.5\" x1=\"24\" x2=\"24\" y1=\"7\" y2=\"14\"></line><circle cx=\"24\" cy=\"6\" fill=\"#1a8fd1\" r=\"2.5\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2.5\" x1=\"24\" x2=\"24\" y1=\"34\" y2=\"41\"></line><circle cx=\"24\" cy=\"42\" fill=\"#1a8fd1\" r=\"2.5\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2.5\" x1=\"7\" x2=\"14\" y1=\"24\" y2=\"24\"></line><circle cx=\"6\" cy=\"24\" fill=\"#1a8fd1\" r=\"2.5\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2.5\" x1=\"34\" x2=\"41\" y1=\"24\" y2=\"24\"></line><circle cx=\"42\" cy=\"24\" fill=\"#1a8fd1\" r=\"2.5\"></circle></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Influenza",
+    "desc": "Flu A, B, C strains",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z\" stroke=\"#1a8fd1\" stroke-width=\"2\"></path><path d=\"M8 12h8M12 8v8\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "green",
+    "name": "Mosquito-Borne",
+    "desc": "Dengue, Zika, Malaria",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#4caf50\" stroke-width=\"2\"></circle><circle cx=\"12\" cy=\"12\" fill=\"#4caf50\" fill-opacity=\".3\" r=\"4\"></circle></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Hepatitis",
+    "desc": "Types A, B, C, D, E",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "green",
+    "name": "HIV / AIDS",
+    "desc": "Immunodeficiency virus",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 2l3 6h6l-5 4 2 7-6-4-6 4 2-7L3 8h6z\" stroke=\"#4caf50\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "green",
+    "name": "Respiratory",
+    "desc": "RSV, Measles, Mumps",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#4caf50\" stroke-width=\"2\"></circle><path d=\"M9 12l2 2 4-4\" stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>"
+   }
+  ],
+  "list_label": "All Viral Diseases",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle><circle cx=\"12\" cy=\"12\" fill=\"#1a8fd1\" fill-opacity=\".4\" r=\"2\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"12\" x2=\"12\" y1=\"3\" y2=\"7\"></line><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"12\" x2=\"12\" y1=\"17\" y2=\"21\"></line><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"3\" x2=\"7\" y1=\"12\" y2=\"12\"></line><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"17\" x2=\"21\" y1=\"12\" y2=\"12\"></line></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-blue",
+   "name": "Viruses",
+   "svg": "<svg fill=\"none\" height=\"52\" viewBox=\"0 0 52 52\" width=\"52\"><circle cx=\"26\" cy=\"26\" r=\"10\" stroke=\"#1a8fd1\" stroke-width=\"2.5\"></circle><circle cx=\"26\" cy=\"26\" fill=\"#1a8fd1\" fill-opacity=\".25\" r=\"4\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2.5\" x1=\"26\" x2=\"26\" y1=\"7\" y2=\"16\"></line><circle cx=\"26\" cy=\"6\" fill=\"#1a8fd1\" r=\"2.5\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2.5\" x1=\"26\" x2=\"26\" y1=\"36\" y2=\"45\"></line><circle cx=\"26\" cy=\"46\" fill=\"#1a8fd1\" r=\"2.5\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2.5\" x1=\"7\" x2=\"16\" y1=\"26\" y2=\"26\"></line><circle cx=\"6\" cy=\"26\" fill=\"#1a8fd1\" r=\"2.5\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2.5\" x1=\"36\" x2=\"45\" y1=\"26\" y2=\"26\"></line><circle cx=\"46\" cy=\"26\" fill=\"#1a8fd1\" r=\"2.5\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"13\" x2=\"18.5\" y1=\"13\" y2=\"18.5\"></line><circle cx=\"11.5\" cy=\"11.5\" fill=\"#1a8fd1\" r=\"2\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"39\" x2=\"33.5\" y1=\"39\" y2=\"33.5\"></line><circle cx=\"40.5\" cy=\"40.5\" fill=\"#1a8fd1\" r=\"2\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"39\" x2=\"33.5\" y1=\"13\" y2=\"18.5\"></line><circle cx=\"40.5\" cy=\"11.5\" fill=\"#1a8fd1\" r=\"2\"></circle><line stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"13\" x2=\"18.5\" y1=\"39\" y2=\"33.5\"></line><circle cx=\"11.5\" cy=\"40.5\" fill=\"#1a8fd1\" r=\"2\"></circle></svg>"
+  }
+ },
+ "bacteria": {
+  "slug": "bacteria",
+  "h1": "Bacterial Diseases",
+  "blurb": "Bacteria are single-celled organisms that can cause a wide range of infections in the human body. Unlike viruses, most bacterial infections can be treated with antibiotics. Learn about symptoms, causes, prevention, and the right treatment approaches.",
+  "image": "https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?w=600&q=80",
+  "subs": [
+   {
+    "color": "green",
+    "name": "Respiratory",
+    "desc": "TB, Pneumonia, Whooping Cough",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z\" stroke=\"#4caf50\" stroke-width=\"1.5\"></path></svg>"
+   },
+   {
+    "color": "green",
+    "name": "Food & Water-Borne",
+    "desc": "Typhoid, Cholera, Salmonella",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83\" stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Skin Infections",
+    "desc": "Cellulitis, Staph, Impetigo",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\" stroke=\"#1a8fd1\" stroke-width=\"2\"></path><path d=\"M9 12l2 2 4-4\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "green",
+    "name": "Sexually Transmitted",
+    "desc": "Chlamydia, Gonorrhea, Syphilis",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#4caf50\" stroke-width=\"2\"></circle><path d=\"M8 12h8M12 8v8\" stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Neurological",
+    "desc": "Meningitis, Tetanus",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>"
+   },
+   {
+    "color": "green",
+    "name": "Systemic",
+    "desc": "Sepsis, Lyme Disease, Brucellosis",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 2a5 5 0 1 0 0 10A5 5 0 0 0 12 2z\" stroke=\"#4caf50\" stroke-width=\"2\"></path><path d=\"M12 12v10\" stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   }
+  ],
+  "list_label": "All Bacterial Diseases",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#4caf50\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-green",
+   "name": "Bacterial Diseases",
+   "svg": "<svg fill=\"none\" height=\"52\" viewBox=\"0 0 52 52\" width=\"52\"><rect height=\"10\" rx=\"5\" stroke=\"#4caf50\" stroke-width=\"2.5\" width=\"30\" x=\"11\" y=\"21\"></rect><line stroke=\"#4caf50\" stroke-width=\"2.5\" x1=\"26\" x2=\"26\" y1=\"21\" y2=\"31\"></line><rect fill=\"#4caf50\" fill-opacity=\".2\" height=\"10\" rx=\"5\" width=\"15\" x=\"11\" y=\"21\"></rect><circle cx=\"20\" cy=\"17\" r=\"3\" stroke=\"#4caf50\" stroke-width=\"2\"></circle><circle cx=\"32\" cy=\"17\" r=\"3\" stroke=\"#4caf50\" stroke-width=\"2\"></circle><circle cx=\"20\" cy=\"35\" r=\"3\" stroke=\"#4caf50\" stroke-width=\"2\"></circle><circle cx=\"32\" cy=\"35\" r=\"3\" stroke=\"#4caf50\" stroke-width=\"2\"></circle></svg>"
+  }
+ },
+ "parasites": {
+  "slug": "parasites",
+  "h1": "Parasitic & Tropical",
+  "blurb": "Parasites and tropical infections affect millions of people, especially in warm regions with limited clean water and sanitation. Most can be prevented, and many can be treated.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Parasitic & Tropical Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-green",
+   "name": "Parasitic",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#4caf50\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><ellipse cx=\"26\" cy=\"29\" rx=\"9\" ry=\"12\"/><circle cx=\"26\" cy=\"14\" r=\"5\"/><path d=\"M17 24L9 20M17 31H8M18 38L10 43M35 24L43 20M35 31H44M34 38L42 43M23 10L20 5M29 10L32 5\" stroke-width=\"2\"/></svg>"
+  }
+ },
+ "chronic": {
+  "slug": "chronic",
+  "h1": "Chronic Illnesses",
+  "blurb": "Chronic diseases are long-lasting conditions that typically cannot be cured but can be managed effectively. They are the leading cause of death worldwide. Understanding your condition is the first step toward a better quality of life.",
+  "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=600&q=80",
+  "subs": [
+   {
+    "color": "blue",
+    "name": "Metabolic",
+    "desc": "Diabetes, Obesity, Thyroid",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle><polyline points=\"8,12 10,12 11,8 13,16 14,12 16,12\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.8\"></polyline></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Cardiovascular",
+    "desc": "Hypertension, Heart Disease",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 21s-7-4-7-9.5C5 8 8 6 10 6c1 0 2 .5 2 .5S13 6 14 6c2 0 5 2 5 5.5C19 17 12 21 12 21z\" stroke=\"#1a8fd1\" stroke-width=\"2\"></path><polyline points=\"8,12 10,12 11,9 13,15 14,12 16,12\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"></polyline></svg>"
+   },
+   {
+    "color": "green",
+    "name": "Respiratory",
+    "desc": "Asthma, COPD, Sleep Apnea",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M6 14c0 4 2 6 6 6s6-2 6-6\" stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\"></path><path d=\"M8 10V6a4 4 0 0 1 8 0v4\" stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\"></path><path d=\"M8 10h8v4H8z\" stroke=\"#4caf50\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "orange",
+    "name": "Musculoskeletal",
+    "desc": "Arthritis, Osteoporosis, Gout",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 2C8 2 5 5 5 9c0 5 7 13 7 13s7-8 7-13c0-4-3-7-7-7z\" stroke=\"#f97316\" stroke-width=\"2\"></path><circle cx=\"12\" cy=\"9\" r=\"2.5\" stroke=\"#f97316\" stroke-width=\"1.8\"></circle></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Neurological",
+    "desc": "Epilepsy, Parkinson's, Migraine",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle><path d=\"M9 12s1 2 3 2 3-2 3-2\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\"></path><circle cx=\"9\" cy=\"9\" fill=\"#1a8fd1\" r=\"1\"></circle><circle cx=\"15\" cy=\"9\" fill=\"#1a8fd1\" r=\"1\"></circle></svg>"
+   },
+   {
+    "color": "purple",
+    "name": "Autoimmune",
+    "desc": "Lupus, Crohn's, Multiple Sclerosis",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\" stroke=\"#7c3aed\" stroke-width=\"2\"></path></svg>"
+   }
+  ],
+  "list_label": "All Chronic Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-blue",
+   "name": "Chronic Illness",
+   "svg": "<svg fill=\"none\" height=\"52\" viewBox=\"0 0 52 52\" width=\"52\"><path d=\"M26 43C26 43 9 33 9 20C9 14 13.5 10 18 10C21.5 10 24 12.5 26 15C28 12.5 30.5 10 34 10C38.5 10 43 14 43 20C43 33 26 43 26 43Z\" stroke=\"#1a8fd1\" stroke-linejoin=\"round\" stroke-width=\"2.5\"></path><polyline points=\"13,25 17,25 19,18 21,31 23,22 26,25 29,25 39,25\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></polyline></svg>"
+  }
+ },
+ "cardiovascular": {
+  "slug": "cardiovascular",
+  "h1": "Heart & Blood Vessels",
+  "blurb": "Your heart and blood vessels carry blood, oxygen, and nutrients to every part of the body. Heart and circulation problems are among the most common health issues worldwide, and many can be prevented or managed with early care.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Heart & Blood Vessels Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-orange",
+   "name": "Heart Health",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#f97316\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M26 43C26 43 9 33 9 20C9 14 13.5 10 18 10C21.5 10 24 12.5 26 15C28 12.5 30.5 10 34 10C38.5 10 43 14 43 20C43 33 26 43 26 43Z\"/><path d=\"M14 24H20L23 18L28 30L31 24H38\" stroke-width=\"2\"/></svg>"
+  }
+ },
+ "respiratory": {
+  "slug": "respiratory",
+  "h1": "Lungs & Breathing",
+  "blurb": "The lungs bring oxygen into the body and remove carbon dioxide. Breathing problems can be short lived, like a cold on the chest, or long lasting, like asthma and COPD. Learn the signs, causes, and common treatments.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Lungs & Breathing Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-blue",
+   "name": "Respiratory",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#1a8fd1\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M26 10V26\"/><path d=\"M26 26C26 26 20 26 17 30C14 35 14 42 16 43C20 44 24 40 26 34\"/><path d=\"M26 26C26 26 32 26 35 30C38 35 38 42 36 43C32 44 28 40 26 34\"/><path d=\"M21 16C18 18 18 22 18 26\" stroke-width=\"2\"/><path d=\"M31 16C34 18 34 22 34 26\" stroke-width=\"2\"/></svg>"
+  }
+ },
+ "digestive": {
+  "slug": "digestive",
+  "h1": "Digestive System",
+  "blurb": "The digestive system breaks down food, absorbs nutrients, and removes waste. Stomach, gut, and liver conditions are very common and range from mild discomfort to serious disease.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Digestive System Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-green",
+   "name": "Digestive",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#4caf50\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M22 9V17C22 17 12 19 12 30C12 39 19 44 28 43C37 42 41 35 38 28C36 24 31 24 29 21C28 19 29 15 29 12\"/><path d=\"M19 9H25M26 12H32\" stroke-width=\"2\"/></svg>"
+  }
+ },
+ "cancer": {
+  "slug": "cancer",
+  "h1": "Cancer",
+  "blurb": "Cancer starts when cells grow out of control. There are more than 100 types, and many are easier to treat when found early. These guides explain symptoms, risk factors, screening, and treatment options in plain words.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Cancer Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-purple",
+   "name": "Cancer",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#7c3aed\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M26 8C19 8 16 14 19 20L26 30L33 20C36 14 33 8 26 8Z\"/><path d=\"M22 28L15 44M30 28L37 44\" stroke-width=\"2.5\"/></svg>"
+  }
+ },
+ "endocrine": {
+  "slug": "endocrine",
+  "h1": "Hormones & Metabolism",
+  "blurb": "Hormones are chemical messengers that control growth, energy, mood, and metabolism. Problems with glands such as the thyroid and adrenal glands can affect the whole body.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Hormones & Metabolism Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-orange",
+   "name": "Hormones",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#f97316\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M26 8C26 8 13 23 13 31C13 38 19 44 26 44C33 44 39 38 39 31C39 23 26 8 26 8Z\"/><path d=\"M20 32C20 35 22 37 25 37\" stroke-width=\"2\"/></svg>"
+  }
+ },
+ "immune": {
+  "slug": "immune",
+  "h1": "Immune & Allergy",
+  "blurb": "The immune system protects the body from germs. Sometimes it overreacts, as in allergies, or attacks healthy tissue, as in autoimmune disease.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Immune & Allergy Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-purple",
+   "name": "Immune & Allergy",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#7c3aed\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M26 8L41 14V26C41 35 34 41 26 45C18 41 11 35 11 26V14L26 8Z\"/><path d=\"M19 26L24 31L33 21\" stroke-width=\"2.5\"/></svg>"
+  }
+ },
+ "blood": {
+  "slug": "blood",
+  "h1": "Blood Disorders",
+  "blurb": "Blood carries oxygen, fights infection, and helps wounds heal. Blood disorders affect red cells, white cells, platelets, or clotting.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Blood Disorders Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-orange",
+   "name": "Blood",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#f97316\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M26 8C26 8 13 23 13 31C13 38 19 44 26 44C33 44 39 38 39 31C39 23 26 8 26 8Z\"/><path d=\"M26 28V38M21 33H31\" stroke-width=\"2.5\"/></svg>"
+  }
+ },
+ "bones": {
+  "slug": "bones",
+  "h1": "Bones, Joints & Muscles",
+  "blurb": "Bones, joints, and muscles help you move and protect your organs. Pain, stiffness, and swelling are common signs that something needs attention.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Bones, Joints & Muscles Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-blue",
+   "name": "Bones & Joints",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#1a8fd1\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 35L35 17\"/><circle cx=\"14\" cy=\"32\" r=\"4.5\"/><circle cx=\"19\" cy=\"38\" r=\"4.5\"/><circle cx=\"33\" cy=\"14\" r=\"4.5\"/><circle cx=\"38\" cy=\"19\" r=\"4.5\"/></svg>"
+  }
+ },
+ "neuro": {
+  "slug": "neuro",
+  "h1": "Neurological Diseases",
+  "blurb": "The nervous system, brain, spinal cord, and nerves, controls everything we do. Neurological disorders affect millions worldwide and range from headaches to life-altering conditions like Parkinson's and Alzheimer's. Early diagnosis and specialist care are key to better outcomes.",
+  "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=600&q=80",
+  "subs": [
+   {
+    "color": "blue",
+    "name": "Seizure Disorders",
+    "desc": "Epilepsy, Febrile Seizures",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M13 2L3 14h9l-1 8 10-12h-9l1-8z\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "purple",
+    "name": "Movement Disorders",
+    "desc": "Parkinson's, Huntington's, Tremors",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#7c3aed\" stroke-width=\"2\"></circle><path d=\"M8 12h8M12 8v8\" stroke=\"#7c3aed\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Degenerative",
+    "desc": "Alzheimer's, Dementia, ALS",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 2C8 2 5 5.5 5 9.5c0 5 7 12.5 7 12.5s7-7.5 7-12.5C19 5.5 16 2 12 2z\" stroke=\"#1a8fd1\" stroke-width=\"2\"></path><path d=\"M9 10h6M9 13h4\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "orange",
+    "name": "Vascular",
+    "desc": "Stroke, TIA, Cerebral Aneurysm",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\" stroke=\"#f97316\" stroke-width=\"2\"></path><path d=\"M9 12l2 2 4-4\" stroke=\"#f97316\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "green",
+    "name": "Headache Disorders",
+    "desc": "Migraine, Cluster, Tension Headache",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#4caf50\" stroke-width=\"2\"></circle><path d=\"M12 8v4M12 16h.01\" stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "purple",
+    "name": "Autoimmune Neuro",
+    "desc": "Multiple Sclerosis, Guillain-Barré",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 2a5 5 0 1 0 0 10A5 5 0 0 0 12 2z\" stroke=\"#7c3aed\" stroke-width=\"2\"></path><path d=\"M4 22v-2a8 8 0 0 1 16 0v2\" stroke=\"#7c3aed\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   }
+  ],
+  "list_label": "All Neurological Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><path d=\"M13 2L3 14h9l-1 8 10-12h-9l1-8z\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-blue",
+   "name": "Neurological",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#1a8fd1\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M26 11C20 11 13 16 13 23C13 27 15 30 18 32V42H34V32C37 30 39 27 39 23C39 16 32 11 26 11Z\"/><line x1=\"26\" y1=\"11\" x2=\"26\" y2=\"42\" stroke-width=\"2\" stroke-dasharray=\"3 2.5\"/></svg>"
+  }
+ },
+ "mental": {
+  "slug": "mental",
+  "h1": "Mental Health",
+  "blurb": "Mental health includes our emotional, psychological, and social wellbeing. It affects how we think, feel, and act. Mental health conditions are more common than you might think, 1 in 4 people will experience one in their lifetime. Help is available and recovery is possible.",
+  "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?w=600&q=80",
+  "subs": [
+   {
+    "color": "green",
+    "name": "Mood Disorders",
+    "desc": "Depression, Bipolar, Dysthymia",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 2C8 2 5 5.5 5 9.5c0 5 7 12.5 7 12.5s7-7.5 7-12.5C19 5.5 16 2 12 2z\" stroke=\"#4caf50\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "green",
+    "name": "Anxiety Disorders",
+    "desc": "GAD, Panic Disorder, Phobia",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#4caf50\" stroke-width=\"2\"></circle><path d=\"M12 7v6l4 2\" stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "purple",
+    "name": "Trauma",
+    "desc": "PTSD, Acute Stress Disorder",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#7c3aed\" stroke-width=\"2\"></circle><path d=\"M12 8v5l3 3\" stroke=\"#7c3aed\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Psychotic",
+    "desc": "Schizophrenia, Schizoaffective",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2v-4M9 21H5a2 2 0 0 1-2-2v-4m0 0h18\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "orange",
+    "name": "Eating Disorders",
+    "desc": "Anorexia, Bulimia, Binge Eating",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 2a5 5 0 1 0 5 5A5 5 0 0 0 12 2zm0 8a3 3 0 1 1 3-3 3 3 0 0 1-3 3zm9 11v-1a7 7 0 0 0-14 0v1\" stroke=\"#f97316\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "purple",
+    "name": "Neurodevelopmental",
+    "desc": "ADHD, Autism Spectrum",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><rect height=\"14\" rx=\"2\" stroke=\"#7c3aed\" stroke-width=\"2\" width=\"20\" x=\"2\" y=\"3\"></rect><path d=\"M8 21h8M12 17v4\" stroke=\"#7c3aed\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   }
+  ],
+  "list_label": "All Mental Health Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#4caf50\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-green",
+   "name": "Mental Health",
+   "svg": "<svg fill=\"none\" height=\"52\" viewBox=\"0 0 52 52\" width=\"52\"><path d=\"M26 11C20 11 13 16 13 23C13 27 15 30 18 32V42H34V32C37 30 39 27 39 23C39 16 32 11 26 11Z\" stroke=\"#4caf50\" stroke-linejoin=\"round\" stroke-width=\"2.5\"></path><line stroke=\"#4caf50\" stroke-dasharray=\"3 2.5\" stroke-width=\"2\" x1=\"26\" x2=\"26\" y1=\"11\" y2=\"42\"></line><path d=\"M19 22C20.5 20 22.5 20 24 22C25.5 24 27.5 20 29 22\" fill=\"none\" stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\"></path><path d=\"M19 29C20.5 27 22.5 27 24 29\" fill=\"none\" stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+  }
+ },
+ "psychology": {
+  "slug": "psychology",
+  "h1": "Psychology & Behavioral Health",
+  "blurb": "Behavioral health encompasses both mental health and substance use disorders. Understanding psychological conditions removes stigma and helps people access the right care. proven therapies can significantly improve quality of life for most conditions covered here.",
+  "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?w=600&q=80",
+  "subs": [
+   {
+    "color": "purple",
+    "name": "Obsessive-Compulsive",
+    "desc": "OCD, Body Dysmorphic Disorder",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M21 12a9 9 0 1 1-9-9 9 9 0 0 1 9 9z\" stroke=\"#7c3aed\" stroke-width=\"2\"></path><path d=\"M12 7v5l3 3\" stroke=\"#7c3aed\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "orange",
+    "name": "Trauma & Stress",
+    "desc": "PTSD, Acute Stress, Adjustment",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z\" stroke=\"#f97316\" stroke-width=\"2\"></path><line stroke=\"#f97316\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"12\" x2=\"12\" y1=\"9\" y2=\"13\"></line><line stroke=\"#f97316\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"12\" x2=\"12.01\" y1=\"17\" y2=\"17\"></line></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Personality Disorders",
+    "desc": "BPD, Narcissistic, Antisocial",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><rect height=\"7\" rx=\"1\" stroke=\"#1a8fd1\" stroke-width=\"2\" width=\"7\" x=\"3\" y=\"3\"></rect><rect height=\"7\" rx=\"1\" stroke=\"#1a8fd1\" stroke-width=\"2\" width=\"7\" x=\"14\" y=\"3\"></rect><rect height=\"7\" rx=\"1\" stroke=\"#1a8fd1\" stroke-width=\"2\" width=\"7\" x=\"3\" y=\"14\"></rect><rect height=\"7\" rx=\"1\" stroke=\"#1a8fd1\" stroke-width=\"2\" width=\"7\" x=\"14\" y=\"14\"></rect></svg>"
+   },
+   {
+    "color": "orange",
+    "name": "Addiction & Substance",
+    "desc": "Alcohol, Drug, Gambling Disorders",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01\" stroke=\"#f97316\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "green",
+    "name": "Sleep Disorders",
+    "desc": "Insomnia, Sleep Apnea, Narcolepsy",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M18 8h1a4 4 0 0 1 0 8h-1M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z\" stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path><line stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"6\" x2=\"6\" y1=\"1\" y2=\"4\"></line><line stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"10\" x2=\"10\" y1=\"1\" y2=\"4\"></line><line stroke=\"#4caf50\" stroke-linecap=\"round\" stroke-width=\"2\" x1=\"14\" x2=\"14\" y1=\"1\" y2=\"4\"></line></svg>"
+   },
+   {
+    "color": "purple",
+    "name": "Eating Disorders",
+    "desc": "Anorexia, Bulimia, Binge Eating",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"8\" r=\"5\" stroke=\"#7c3aed\" stroke-width=\"2\"></circle><path d=\"M3 21v-2a9 9 0 0 1 18 0v2\" stroke=\"#7c3aed\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   }
+  ],
+  "list_label": "All Psychology Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#7c3aed\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-purple",
+   "name": "Psychology",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#7c3aed\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"26\" cy=\"20\" r=\"10\"/><path d=\"M18 42C18 36 21 33 26 33C31 33 34 36 34 42\"/></svg>"
+  }
+ },
+ "skin": {
+  "slug": "skin",
+  "h1": "Skin Diseases",
+  "blurb": "The skin is the body's largest organ and a barrier against infection. Skin conditions affect people of all ages and can range from temporary irritations to chronic disorders. Many are treatable with the right dermatological care.",
+  "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=600&q=80",
+  "subs": [
+   {
+    "color": "purple",
+    "name": "Inflammatory",
+    "desc": "Eczema, Psoriasis, Rosacea",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 2C8 2 4 6 4 10c0 6 8 12 8 12s8-6 8-12C20 6 16 2 12 2z\" stroke=\"#7c3aed\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "purple",
+    "name": "Acne & Pores",
+    "desc": "Acne vulgaris, Blackheads",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#7c3aed\" stroke-width=\"2\"></circle><circle cx=\"9\" cy=\"10\" fill=\"#7c3aed\" fill-opacity=\".4\" r=\"2\"></circle><circle cx=\"15\" cy=\"14\" fill=\"#7c3aed\" fill-opacity=\".4\" r=\"1.5\"></circle></svg>"
+   },
+   {
+    "color": "orange",
+    "name": "Fungal Infections",
+    "desc": "Ringworm, Athlete's Foot, Candida",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><rect height=\"18\" rx=\"4\" stroke=\"#f97316\" stroke-width=\"2\" width=\"18\" x=\"3\" y=\"3\"></rect></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Viral Skin",
+    "desc": "Shingles, Warts, Cold Sores",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "purple",
+    "name": "Pigmentation",
+    "desc": "Vitiligo, Melasma, Birthmarks",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#7c3aed\" stroke-width=\"2\"></circle><path d=\"M8 12h8M12 8v8\" stroke=\"#7c3aed\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Cancer & Growths",
+    "desc": "Melanoma, Basal Cell Carcinoma",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\" stroke=\"#1a8fd1\" stroke-width=\"2\"></path></svg>"
+   }
+  ],
+  "list_label": "All Skin Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#7c3aed\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-purple",
+   "name": "Skin Diseases",
+   "svg": "<svg fill=\"none\" height=\"52\" viewBox=\"0 0 52 52\" width=\"52\"><rect height=\"16\" rx=\"8\" stroke=\"#7c3aed\" stroke-width=\"2.5\" width=\"32\" x=\"10\" y=\"18\"></rect><rect fill=\"white\" height=\"24\" rx=\"5\" stroke=\"#7c3aed\" stroke-width=\"2.5\" width=\"12\" x=\"20\" y=\"14\"></rect><circle cx=\"23\" cy=\"22\" fill=\"#7c3aed\" r=\"1.8\"></circle><circle cx=\"29\" cy=\"22\" fill=\"#7c3aed\" r=\"1.8\"></circle><circle cx=\"23\" cy=\"30\" fill=\"#7c3aed\" r=\"1.8\"></circle><circle cx=\"29\" cy=\"30\" fill=\"#7c3aed\" r=\"1.8\"></circle></svg>"
+  }
+ },
+ "eye-ear": {
+  "slug": "eye-ear",
+  "h1": "Eyes, Ears, Nose & Throat",
+  "blurb": "Your eyes, ears, nose, and throat connect you to the world. These guides cover common infections, age related changes, and long term conditions of the senses.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Eyes, Ears, Nose & Throat Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-green",
+   "name": "Eye & Ear",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#4caf50\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 26C13 14 39 14 47 26C39 38 13 38 5 26Z\"/><circle cx=\"26\" cy=\"26\" r=\"6\"/><circle cx=\"26\" cy=\"26\" r=\"1.5\" fill=\"currentColor\"/></svg>"
+  }
+ },
+ "dental": {
+  "slug": "dental",
+  "h1": "Teeth & Mouth",
+  "blurb": "Healthy teeth and gums help you eat, speak, and smile. Many mouth problems start small and can be prevented with good daily care and regular dental visits.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Teeth & Mouth Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-blue",
+   "name": "Dental Health",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#1a8fd1\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 10C11 10 8 15 9 21C10 28 12 31 14 41C15 45 19 45 21 41L24 32C25 30 27 30 28 32L31 41C33 45 37 45 38 41C40 31 42 28 43 21C44 15 41 10 35 10C31 10 29 12 26 12C23 12 21 10 17 10Z\"/></svg>"
+  }
+ },
+ "urinary": {
+  "slug": "urinary",
+  "h1": "Kidney & Urinary",
+  "blurb": "The kidneys filter waste from the blood, and the urinary tract removes it from the body. Infections, stones, and long term kidney disease are common and often treatable.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Kidney & Urinary Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-blue",
+   "name": "Kidney",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#1a8fd1\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M30 9C20 9 13 16 13 26C13 36 20 43 30 43C34 43 36 41 36 39C36 36 32 35 32 31C32 27 36 26 36 23C36 20 35 9 30 9Z\"/><path d=\"M33 26H41\" stroke-width=\"2\"/></svg>"
+  }
+ },
+ "womens": {
+  "slug": "womens",
+  "h1": "Women's Health",
+  "blurb": "Women's health covers conditions of the reproductive system, pregnancy, and life stages such as menopause, along with conditions that affect women in different ways.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Women's Health Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-purple",
+   "name": "Women's Health",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#7c3aed\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"26\" cy=\"19\" r=\"10\"/><path d=\"M26 29V45M19 38H33\"/></svg>"
+  }
+ },
+ "sexual": {
+  "slug": "sexual",
+  "h1": "Sexual Health",
+  "blurb": "Sexual health includes infections that can pass between partners and conditions that affect sexual function. Testing, protection, and early treatment make a big difference.",
+  "image": "",
+  "subs": [],
+  "list_label": "All Sexual Health Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-orange",
+   "name": "Sexual Health",
+   "svg": "<svg width=\"52\" height=\"52\" viewBox=\"0 0 52 52\" fill=\"none\" stroke=\"#f97316\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"19\" cy=\"26\" r=\"10\"/><circle cx=\"33\" cy=\"26\" r=\"10\"/></svg>"
+  }
+ },
+ "children": {
+  "slug": "children",
+  "h1": "Children's Health",
+  "blurb": "Children are more vulnerable to certain infections because their immune systems are still developing. As a parent or caregiver, knowing the signs of common childhood conditions helps you act quickly and keep your child safe and healthy.",
+  "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+  "subs": [
+   {
+    "color": "orange",
+    "name": "Common Childhood",
+    "desc": "Chickenpox, Measles, Mumps",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"8\" r=\"5\" stroke=\"#f97316\" stroke-width=\"2\"></circle><path d=\"M5 20c0-4 3.1-7 7-7s7 3 7 7\" stroke=\"#f97316\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Vaccine-Preventable",
+    "desc": "Polio, Pertussis, Diphtheria",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M9 12l2 2 4-4\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle></svg>"
+   },
+   {
+    "color": "green",
+    "name": "Respiratory",
+    "desc": "Croup, RSV, Bronchiolitis",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\" stroke=\"#4caf50\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "purple",
+    "name": "Neurodevelopmental",
+    "desc": "ADHD, Autism, Dyslexia",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><rect height=\"18\" rx=\"4\" stroke=\"#7c3aed\" stroke-width=\"2\" width=\"18\" x=\"3\" y=\"3\"></rect><path d=\"M8 12h8M12 8v8\" stroke=\"#7c3aed\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "orange",
+    "name": "Gastrointestinal",
+    "desc": "Gastroenteritis, Intussusception",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#f97316\" stroke-width=\"2\"></circle><path d=\"M8 14s1 2 4 2 4-2 4-2M9 9h.01M15 9h.01\" stroke=\"#f97316\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   },
+   {
+    "color": "blue",
+    "name": "Growth & Development",
+    "desc": "Malnutrition, Rickets, Anemia",
+    "svg": "<svg fill=\"none\" height=\"26\" viewBox=\"0 0 24 24\" width=\"26\"><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"#1a8fd1\" stroke-width=\"2\"></circle><path d=\"M12 8v4l3 3\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   }
+  ],
+  "list_label": "All Children's Conditions",
+  "list_svg": "<svg fill=\"none\" height=\"20\" viewBox=\"0 0 24 24\" width=\"20\"><circle cx=\"12\" cy=\"12\" r=\"5\" stroke=\"#f97316\" stroke-width=\"2\"></circle></svg>",
+  "arrow_svg": "<svg fill=\"none\" height=\"16\" viewBox=\"0 0 24 24\" width=\"16\"><path d=\"M9 18l6-6-6-6\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>",
+  "topic": {
+   "tc": "tc-orange",
+   "name": "Children's Health",
+   "svg": "<svg fill=\"none\" height=\"52\" viewBox=\"0 0 52 52\" width=\"52\"><circle cx=\"26\" cy=\"14\" r=\"7\" stroke=\"#f97316\" stroke-width=\"2.5\"></circle><path d=\"M15 44V33C15 27.5 20 24 26 24C32 24 37 27.5 37 33V44\" stroke=\"#f97316\" stroke-linecap=\"round\" stroke-width=\"2.5\"></path><line stroke=\"#f97316\" stroke-linecap=\"round\" stroke-width=\"2.5\" x1=\"19\" x2=\"13\" y1=\"33\" y2=\"40\"></line><line stroke=\"#f97316\" stroke-linecap=\"round\" stroke-width=\"2.5\" x1=\"33\" x2=\"39\" y1=\"33\" y2=\"40\"></line></svg>"
+  }
+ }
+}

@@ -1,0 +1,21 @@
+name: Tell search engines
+
+on:
+  schedule:
+    - cron: "41 7 * * *"     # every day 07:41 UTC = 12:41 PM Pakistan (after the 05:17 articles are live)
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Send new pages to IndexNow (Bing, Yandex and others)
+        run: python tools/ping_indexnow.py

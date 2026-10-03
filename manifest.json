@@ -1,0 +1,65 @@
+{
+  "id": "./",
+  "name": "BHC Health Guide",
+  "short_name": "BHC Health",
+  "description": "Plain-language guides to diseases, symptoms, causes, treatment and prevention.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#1a8fd1",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "health",
+    "medical",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Search conditions",
+      "short_name": "Search",
+      "url": "./search.html",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "All conditions A to Z",
+      "short_name": "All conditions",
+      "url": "./diseases.html",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

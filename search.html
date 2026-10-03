@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Search Health Conditions | BHC Health Guide</title>
+<meta name="description" content="Search symptoms, diseases and health topics and find the guide you need.">
+<meta name="robots" content="noindex, follow">
+
+<meta property="og:title" content="Search Health Conditions | BHC Health Guide">
+<meta property="og:description" content="Search symptoms, diseases and health topics and find the guide you need.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="BHC Health Guide">
+
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="48x48" href="favicon-48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1a8fd1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data: https:; connect-src 'self'; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self' mailto:">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<style>
+.s-box{display:flex;gap:8px;background:#fff;border:1.5px solid #dde8f0;border-radius:12px;padding:6px 6px 6px 16px;align-items:center;max-width:620px}
+.s-box input{flex:1;min-width:0;border:none;outline:none;font:inherit;font-size:16px;color:#1a232e;padding:10px 0;background:transparent}
+.s-box button{background:#1a8fd1;color:#fff;border:none;border-radius:9px;padding:11px 20px;font:inherit;font-weight:700;cursor:pointer}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0 6px}
+.chip{background:#fff;border:1.5px solid #dde8f0;border-radius:99px;padding:7px 14px;font:inherit;font-size:13px;font-weight:600;color:#4a5568;cursor:pointer}
+.chip.on{background:#1a8fd1;border-color:#1a8fd1;color:#fff}
+.s-meta{font-size:13px;color:#94a3b8;margin:10px 2px 14px}
+</style>
+<div id="nav-placeholder"></div>
+
+<section class="cat-hero"><div class="container">
+  <div class="breadcrumb"><a href="index.html">Home</a><span class="bc-sep">›</span><span>Search</span></div>
+  <div class="cat-hero-inner"><div>
+    <h1>Search Health Topics</h1>
+    <p style="margin-bottom:16px">Type a condition, a symptom, or a topic you care about, for example <em>headache</em>, <em>child fever</em> or <em>blood sugar</em>.</p>
+    <div class="s-box"><input id="s-q" type="search" placeholder="Search conditions and symptoms..." aria-label="Search" autocomplete="off"><button id="s-go" type="button">Search</button></div>
+  </div></div>
+</div></section>
+
+<div class="container" style="padding-top:22px;padding-bottom:52px">
+  <div class="chips" id="s-chips"><button class="chip on" data-c="">All</button><button class="chip" data-c="viruses">Viral Diseases</button><button class="chip" data-c="bacteria">Bacterial Diseases</button><button class="chip" data-c="chronic">Chronic Illnesses</button><button class="chip" data-c="neuro">Neurological Diseases</button><button class="chip" data-c="mental">Mental Health</button><button class="chip" data-c="psychology">Psychology &amp; Behavioral Health</button><button class="chip" data-c="skin">Skin Diseases</button></div>
+  <div class="s-meta" id="s-meta"></div>
+  <div class="dis-list" id="s-results"></div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var q = document.getElementById("s-q"), meta = document.getElementById("s-meta"), out = document.getElementById("s-results");
+  var cat = "", data = [];
+  function esc(x) { return String(x).replace(/[&<>"]/g, function (c) { return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]; }); }
+  function render() {
+    var terms = bhcTerms(q.value);
+    var list = terms.length ? bhcSearch(q.value, data, 60) : data.slice().sort(function (a, b) { return a.t.localeCompare(b.t); }).slice(0, 60);
+    if (cat) list = list.filter(function (x) { return x.cs === cat; });
+    meta.textContent = terms.length ? (list.length + " result" + (list.length === 1 ? "" : "s") + " for “" + q.value.trim() + "”") : "Showing the first guides. Type to search.";
+    if (!list.length) { out.innerHTML = '<div style="padding:22px;font-size:14px;color:#94a3b8">No guide found yet. Try a different word, or <a href="diseases.html" style="color:#1a8fd1;font-weight:700">browse all conditions</a>. New guides are added every day.</div>'; return; }
+    out.innerHTML = list.map(function (x) {
+      return '<a href="' + x.u + '" class="dis-item"><div class="dis-info"><h4>' + esc(x.t) + '</h4><p>' + esc(x.c) + ' &middot; ' + esc(x.s) + '</p></div><div class="dis-sev"><span class="' + esc(x.bc) + '">' + esc(x.b) + '</span></div></a>';
+    }).join("");
+  }
+  q.value = new URLSearchParams(location.search).get("q") || "";
+  fetch("search-index.json").then(function (r) { return r.json(); }).then(function (d) { data = d; render(); }).catch(function () { meta.textContent = "Search is not available right now."; });
+  q.addEventListener("input", function () { history.replaceState(null, "", q.value ? "?q=" + encodeURIComponent(q.value) : location.pathname); render(); });
+  document.getElementById("s-go").addEventListener("click", render);
+  q.addEventListener("keydown", function (ev) { if (ev.key === "Enter") render(); });
+  document.getElementById("s-chips").addEventListener("click", function (ev) {
+    var b = ev.target.closest(".chip"); if (!b) return;
+    document.querySelectorAll(".chip").forEach(function (c) { c.classList.remove("on"); });
+    b.classList.add("on"); cat = b.getAttribute("data-c"); render();
+  });
+});
+</script>
+<div id="footer-placeholder"></div>
+
+<script src="components.js"></script>
+</body>
+</html>

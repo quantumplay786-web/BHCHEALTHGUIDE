@@ -1,0 +1,126 @@
+{
+ "slug": "depression",
+ "category": "mental",
+ "title": "Major Depression",
+ "subtitle": "A common and serious mental health disorder causing persistent sadness, loss of interest, and a range of emotional and physical symptoms that significantly affect daily functioning.",
+ "badges": [
+  [
+   "badge-orange",
+   "Common"
+  ],
+  [
+   "badge-green",
+   "Non-Contagious"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Common"
+  ],
+  [
+   "Spread",
+   "Non-Contagious"
+  ],
+  [
+   "Onset",
+   "Gradual Onset"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Depression is not just feeling sad, it is a medical condition that affects how you think, feel, and handle daily activities. It is the leading cause of disability worldwide, affecting over 280 million people.",
+   "items": [
+    "Persistent sad, anxious, or empty mood most of the day",
+    "Loss of interest or pleasure in activities once enjoyed",
+    "Changes in appetite, significant weight loss or gain",
+    "Sleep disturbances, insomnia or oversleeping",
+    "Fatigue and decreased energy",
+    "Difficulty concentrating, remembering, and making decisions"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Depression results from a complex interaction of biological, psychological, and social factors. No single cause explains all cases.",
+   "items": [
+    "Neurochemical imbalance, low serotonin, dopamine, norepinephrine",
+    "Genetic factors, family history increases risk 2-3x",
+    "Life events, loss, trauma, stress, relationship problems",
+    "Medical conditions, thyroid disease, chronic pain",
+    "Substance abuse, alcohol and drugs worsen depression",
+    "Hormonal changes, postpartum, menopause"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Maintain regular sleep schedule, wake and sleep at same time",
+    "Exercise 30 minutes daily, proven to reduce depressive symptoms",
+    "Stay socially connected, isolation worsens depression",
+    "Limit alcohol and avoid recreational drugs",
+    "Learn stress management and relaxation techniques",
+    "Seek therapy early, do not wait for symptoms to become severe"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Cognitive Behavioural Therapy (CBT), most proven therapy",
+    "Antidepressants: SSRIs (Sertraline, Fluoxetine), first-line",
+    "SNRIs (Venlafaxine) for depression with anxiety",
+    "Interpersonal therapy and behavioural activation",
+    "Exercise as adjunct treatment",
+    "Electroconvulsive therapy (ECT) for severe treatment-resistant cases"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Recovery",
+   "70-80% of people improve significantly with treatment"
+  ],
+  [
+   "Affiliate",
+   "BetterHelp, Online Therapy from $40/week"
+  ]
+ ],
+ "related": [
+  [
+   "Anxiety Disorder",
+   "anxiety"
+  ],
+  [
+   "Hypertension",
+   "hypertension"
+  ],
+  [
+   "Diabetes",
+   "diabetes"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Health Supplements</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Depression: symptoms, causes, therapy options including CBT, antidepressants, and lifestyle approaches. reviewed by experts mental health guide."
+}

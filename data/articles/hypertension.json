@@ -1,0 +1,124 @@
+{
+ "slug": "hypertension",
+ "category": "chronic",
+ "title": "Hypertension",
+ "subtitle": "High blood pressure, often called the silent killer because it has no obvious symptoms but significantly increases the risk of heart attack, stroke, and kidney failure.",
+ "badges": [
+  [
+   "badge-orange",
+   "Manageable"
+  ],
+  [
+   "badge-blue",
+   "Non-Contagious"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Manageable"
+  ],
+  [
+   "Spread",
+   "Non-Contagious"
+  ],
+  [
+   "Onset",
+   "Gradual/Silent"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Hypertension is one of the most common chronic conditions worldwide, affecting 1 in 3 adults. Most people do not know they have it because it typically causes no symptoms until serious damage has occurred.",
+   "items": [
+    "Usually no symptoms, known as the silent killer",
+    "Severe headaches (hypertensive crisis)",
+    "Dizziness and nosebleeds in very high BP",
+    "Shortness of breath and chest pain",
+    "Visual changes and blurred vision",
+    "Blood in urine (sign of kidney damage)"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Blood pressure is consistently above 130/80 mmHg. Primary hypertension develops gradually over years; secondary hypertension has a specific underlying cause.",
+   "items": [
+    "Primary hypertension, genetic factors, age, lifestyle, obesity",
+    "Secondary, kidney disease, thyroid disorders, sleep apnea",
+    "High salt diet, physical inactivity, excessive alcohol",
+    "Chronic stress, smoking, and certain medications"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Reduce salt intake to less than 5g per day",
+    "Follow DASH diet, rich in fruits, vegetables, whole grains",
+    "Exercise 30 minutes daily, brisk walking lowers BP",
+    "Maintain healthy weight, BMI 18.5, 24.9",
+    "Limit alcohol to 1-2 units per day maximum",
+    "Stop smoking and manage stress through relaxation techniques"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "ACE inhibitors (e.g. Lisinopril), relax blood vessels",
+    "ARBs (e.g. Losartan), block angiotensin, lower BP",
+    "Calcium channel blockers (e.g. Amlodipine), widen arteries",
+    "Diuretics (water pills), reduce fluid volume",
+    "Beta-blockers for specific cases",
+    "Regular monitoring with home blood pressure device"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Normal BP",
+   "Below 120/80 mmHg"
+  ],
+  [
+   "Hypertensive Crisis",
+   "Above 180/120 mmHg, seek emergency care"
+  ]
+ ],
+ "related": [
+  [
+   "Diabetes",
+   "diabetes"
+  ],
+  [
+   "Asthma",
+   "asthma"
+  ],
+  [
+   "Depression",
+   "depression"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Health Supplements</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Hypertension: silent symptoms, causes, risk factors, blood pressure monitoring, medications, and lifestyle changes to lower blood pressure."
+}

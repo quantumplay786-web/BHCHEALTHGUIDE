@@ -1,0 +1,126 @@
+{
+ "slug": "asthma",
+ "category": "chronic",
+ "title": "Asthma",
+ "subtitle": "A chronic lung condition that causes inflammation and narrowing of the airways, leading to episodes of wheezing, breathlessness, chest tightness, and coughing.",
+ "badges": [
+  [
+   "badge-orange",
+   "Manageable"
+  ],
+  [
+   "badge-blue",
+   "Non-Contagious"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Manageable"
+  ],
+  [
+   "Spread",
+   "Non-Contagious"
+  ],
+  [
+   "Onset",
+   "Lifelong"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Asthma affects approximately 262 million people worldwide. With proper treatment and trigger avoidance, most people with asthma can lead active, normal lives. It can develop at any age.",
+   "items": [
+    "Recurrent wheezing (whistling sound when breathing)",
+    "Shortness of breath and chest tightness",
+    "Persistent cough, especially at night and early morning",
+    "Difficulty sleeping due to breathing problems",
+    "Symptoms worse during exercise or cold air exposure",
+    "Symptoms worsened by allergens like pollen, dust, and mold"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Asthma results from a combination of genetic and environmental factors that cause chronic airway inflammation and hyper-responsiveness.",
+   "items": [
+    "Genetic predisposition, family history is a major risk factor",
+    "Allergic sensitization to pollen, dust mites, pet dander",
+    "Air pollution, cigarette smoke exposure",
+    "Respiratory infections in early childhood",
+    "Exercise-induced bronchoconstriction",
+    "Occupational exposures (chemicals, dust, fumes)"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Identify and avoid your personal asthma triggers",
+    "Keep indoor air clean, air purifiers, HEPA filters",
+    "Reduce exposure to dust mites, wash bedding weekly in hot water",
+    "Do not smoke and avoid secondhand smoke",
+    "Annual flu vaccine to reduce respiratory infection risk",
+    "Monitor peak flow regularly to detect worsening early"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Short-acting bronchodilators (SABA), Salbutamol inhaler for quick relief",
+    "Inhaled corticosteroids (ICS), main controller medication",
+    "Long-acting bronchodilators (LABA) combined with ICS",
+    "Leukotriene receptor antagonists (Montelukast)",
+    "Biologics (e.g. Omalizumab) for severe allergic asthma",
+    "Have an asthma action plan agreed with your doctor"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Peak Flow",
+   "Monitor regularly to detect asthma attacks early"
+  ],
+  [
+   "Asthma Attack",
+   "Call emergency if inhaler provides no relief"
+  ]
+ ],
+ "related": [
+  [
+   "Hypertension",
+   "hypertension"
+  ],
+  [
+   "Diabetes",
+   "diabetes"
+  ],
+  [
+   "Pneumonia",
+   "pneumonia"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Health Supplements</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Asthma: symptoms like wheezing and breathlessness, common triggers, inhaler therapy, and long term management strategies. reviewed by experts."
+}

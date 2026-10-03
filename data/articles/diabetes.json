@@ -1,0 +1,124 @@
+{
+ "slug": "diabetes",
+ "category": "chronic",
+ "title": "Diabetes Mellitus",
+ "subtitle": "A chronic metabolic disease characterized by elevated blood glucose levels resulting from defects in insulin production, insulin action, or both.",
+ "badges": [
+  [
+   "badge-orange",
+   "Manageable"
+  ],
+  [
+   "badge-blue",
+   "Non-Contagious"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Manageable"
+  ],
+  [
+   "Spread",
+   "Non-Contagious"
+  ],
+  [
+   "Onset",
+   "Gradual Onset"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Diabetes affects over 500 million people worldwide. While it cannot be cured, it can be managed effectively with lifestyle changes, medication, and regular monitoring to prevent serious complications.",
+   "items": [
+    "Frequent urination (polyuria) especially at night",
+    "Excessive thirst (polydipsia)",
+    "Unexplained weight loss (especially Type 1)",
+    "Blurred vision and slow-healing wounds",
+    "Frequent infections (skin, gum, urinary tract)",
+    "Tingling or numbness in hands and feet"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Diabetes occurs when the pancreas does not produce enough insulin or the body cannot effectively use the insulin it produces.",
+   "items": [
+    "Type 1, Autoimmune destruction of insulin-producing beta cells",
+    "Type 2, Insulin resistance combined with progressive beta cell failure",
+    "Gestational diabetes, during pregnancy due to hormonal changes",
+    "Genetic factors, obesity, sedentary lifestyle increase Type 2 risk"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Maintain a healthy weight, even 5-10% weight loss improves blood sugar",
+    "Eat a balanced diet low in refined carbohydrates and sugar",
+    "Exercise for at least 150 minutes per week",
+    "Get regular blood sugar screenings if overweight or over 45",
+    "Avoid smoking and limit alcohol consumption",
+    "Manage stress, stress hormones raise blood sugar"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Lifestyle changes: healthy diet, exercise, weight management",
+    "Metformin, first-line medication for Type 2 diabetes",
+    "Insulin therapy, essential for Type 1, used in advanced Type 2",
+    "SGLT2 inhibitors, GLP-1 agonists for Type 2",
+    "Regular HbA1c, blood pressure, and cholesterol monitoring",
+    "Foot care and annual eye exams to detect complications early"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Global Cases",
+   "Over 537 million adults living with diabetes (2021)"
+  ],
+  [
+   "Complications",
+   "Heart disease, kidney failure, blindness, amputations"
+  ]
+ ],
+ "related": [
+  [
+   "Hypertension",
+   "hypertension"
+  ],
+  [
+   "Asthma",
+   "asthma"
+  ],
+  [
+   "Depression",
+   "depression"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Health Supplements</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Diabetes Type 1 and Type 2: symptoms, blood sugar management, diet tips, insulin therapy, and complications."
+}

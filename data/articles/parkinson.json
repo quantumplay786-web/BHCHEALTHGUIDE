@@ -1,0 +1,126 @@
+{
+ "slug": "parkinson",
+ "category": "neuro",
+ "title": "Parkinson's Disease",
+ "subtitle": "A progressive neurodegenerative disorder that mainly affects movement, caused by the loss of dopamine-producing nerve cells in the brain's substantia nigra region.",
+ "badges": [
+  [
+   "badge-orange",
+   "Progressive"
+  ],
+  [
+   "badge-blue",
+   "Neurological"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Progressive"
+  ],
+  [
+   "Type",
+   "Neurological"
+  ],
+  [
+   "Onset",
+   "Gradual (50s-70s)"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Parkinson's affects approximately 10 million people worldwide. While there is currently no cure, treatments significantly improve quality of life. It is the second most common neurodegenerative disorder after Alzheimer's disease.",
+   "items": [
+    "Resting tremor, shaking in hands, arms, or jaw at rest",
+    "Bradykinesia, slowness of movement, reduced arm swing",
+    "Muscle rigidity, stiffness in limbs and trunk",
+    "Postural instability, impaired balance and coordination",
+    "Micrographia, small, cramped handwriting",
+    "Soft speech, masked facial expression, shuffling walk"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes & Risk Factors",
+   "color": "red",
+   "open": true,
+   "intro": "Parkinson's results from the death of dopaminergic neurons in the substantia nigra. The cause is a combination of genetic and environmental factors.",
+   "items": [
+    "Loss of dopamine-producing neurons in the substantia nigra",
+    "Accumulation of Lewy bodies (alpha-synuclein protein) in brain cells",
+    "Genetic mutations, LRRK2, SNCA, PRKN genes in familial cases",
+    "Environmental exposures, pesticides, herbicides, heavy metals",
+    "Age is the greatest risk factor, most cases after age 60",
+    "Males are 1.5x more likely to develop Parkinson's"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention & Lifestyle",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Regular aerobic exercise, shown to slow disease progression",
+    "Avoid pesticide exposure where possible",
+    "Mediterranean diet, associated with lower Parkinson's risk",
+    "Moderate coffee consumption linked to lower risk in studies",
+    "Stay mentally and socially active",
+    "Physical therapy and boxing programs help maintain mobility"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Levodopa/Carbidopa, gold standard, replenishes dopamine",
+    "Dopamine agonists, Pramipexole, Ropinirole for early disease",
+    "MAO-B inhibitors, Selegiline, Rasagiline to slow dopamine breakdown",
+    "Deep Brain Stimulation (DBS), surgical option for advanced cases",
+    "Physiotherapy, speech therapy, and occupational therapy",
+    "Amantadine for dyskinesia (involuntary movements from long term levodopa)"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Progression",
+   "Slow, most patients live 10-20+ years after diagnosis"
+  ],
+  [
+   "Famous Cases",
+   "Muhammad Ali, Robin Williams, Michael J. Fox"
+  ]
+ ],
+ "related": [
+  [
+   "Alzheimer's Disease",
+   "alzheimers"
+  ],
+  [
+   "Epilepsy",
+   "epilepsy"
+  ],
+  [
+   "Stroke",
+   "stroke"
+  ]
+ ],
+ "related_label": "Related Conditions",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Online Therapy</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Talk to a Licensed Therapist</p><p style=\"font-size:12px;color:var(--ts);margin-bottom:14px\">From $40/week. Start anytime.</p><a class=\"btn-p\" href=\"https://betterhelp.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Try BetterHelp</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Parkinson's Disease: tremor, rigidity, dopamine deficiency, medications like Levodopa, and physiotherapy approaches."
+}

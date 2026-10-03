@@ -1,0 +1,124 @@
+{
+ "slug": "dengue",
+ "category": "viruses",
+ "title": "Dengue Fever",
+ "subtitle": "A mosquito-borne viral disease caused by any of four dengue viruses (DENV 1-4), transmitted by Aedes aegypti mosquitoes.",
+ "badges": [
+  [
+   "badge-red",
+   "High Risk"
+  ],
+  [
+   "badge-blue",
+   "Aedes Mosquito"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "High Risk"
+  ],
+  [
+   "Spread",
+   "Aedes Mosquito"
+  ],
+  [
+   "Incubation",
+   "3, 14 Days"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Dengue fever causes a severe flu-like illness that can occasionally develop into potentially lethal complications called severe dengue. Symptoms typically appear 4, 10 days after a mosquito bite.",
+   "items": [
+    "Sudden high fever, 40°C (104°F)",
+    "Severe headache, especially behind the eyes",
+    "Severe joint and muscle pains (breakbone fever)",
+    "Nausea and vomiting",
+    "Skin rash appearing 2, 5 days after onset",
+    "Mild bleeding (nose bleed, gum bleed, easy bruising)"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Dengue is caused by the dengue virus (DENV), of which there are four distinct serotypes. Infection with one serotype provides immunity only to that type, you can be infected up to four times.",
+   "items": [
+    "DENV-1, DENV-2, DENV-3, DENV-4, four serotypes of dengue virus",
+    "Transmitted primarily by female Aedes aegypti mosquitoes",
+    "Aedes albopictus (tiger mosquito) is a secondary vector",
+    "Mosquitoes breed in stagnant water in and around homes"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Eliminate standing water, flower pots, buckets, tyres",
+    "Use mosquito repellent on exposed skin (DEET-based)",
+    "Wear long-sleeved clothing in high risk areas",
+    "Use mosquito nets, especially during daytime bites",
+    "Install window and door screens",
+    "Community-level mosquito control programs"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "No specific antiviral treatment for dengue",
+    "Paracetamol for fever, avoid aspirin and ibuprofen (increase bleeding risk)",
+    "Rest and drink plenty of fluids to prevent dehydration",
+    "Monitor platelet count, hospitalize if count drops sharply",
+    "IV fluid replacement for severe dengue",
+    "Blood transfusion in cases of severe bleeding"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Also Known As",
+   "Breakbone Fever, Dengue Haemorrhagic Fever"
+  ],
+  [
+   "Mortality (Severe)",
+   "Up to 20% untreated; under 1% with proper care"
+  ]
+ ],
+ "related": [
+  [
+   "COVID-19",
+   "covid19"
+  ],
+  [
+   "Influenza (Flu)",
+   "flu"
+  ],
+  [
+   "Hepatitis B",
+   "hepatitis"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Health Supplements</p><p style=\"font-size:12px;color:var(--ts);margin-bottom:14px\">Vitamins, Minerals, Immunity</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Dengue Fever: symptoms like high fever, severe headache, joint pain, and rash. reviewed by experts causes, prevention, and treatment."
+}

@@ -1,0 +1,126 @@
+{
+ "slug": "acne",
+ "category": "skin",
+ "title": "Acne Vulgaris",
+ "subtitle": "The most common skin condition worldwide, affecting up to 85% of people at some point in their lives. Acne occurs when hair follicles become clogged with oil, dead skin cells, and bacteria.",
+ "badges": [
+  [
+   "badge-orange",
+   "Common"
+  ],
+  [
+   "badge-purple",
+   "Non-Contagious"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Common"
+  ],
+  [
+   "Spread",
+   "Non-Contagious"
+  ],
+  [
+   "Onset",
+   "Puberty to Adulthood"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Acne affects approximately 650 million people globally. While commonly associated with teenage years, acne can occur at any age and can have significant effects on self-esteem and mental health.",
+   "items": [
+    "Whiteheads, closed clogged pores",
+    "Blackheads, open clogged pores darkened by oxidation",
+    "Papules, small, tender red bumps",
+    "Pustules, pimples with pus at the tip",
+    "Nodules, large, solid, painful lumps deep in the skin",
+    "Cysts, painful, pus-filled lumps that can cause scarring"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Acne develops when four main factors combine: excess oil production, clogged hair follicles, bacteria, and inflammation.",
+   "items": [
+    "Propionibacterium acnes (C. acnes) bacteria overgrowth",
+    "Excess sebum production triggered by androgens",
+    "Hormonal changes, puberty, menstrual cycle, pregnancy",
+    "Certain medications, corticosteroids, lithium",
+    "High-glycaemic diet and dairy may worsen acne",
+    "Stress increases sebum production indirectly"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Wash face twice daily with gentle, non-comedogenic cleanser",
+    "Use oil-free, non-comedogenic moisturisers and sunscreen",
+    "Do not pick or squeeze pimples, causes scarring",
+    "Change pillowcases frequently",
+    "Keep hair clean and off face",
+    "Reduce high-glycaemic foods and dairy if they trigger breakouts"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Topical retinoids (Tretinoin, Adapalene), unclog pores",
+    "Benzoyl peroxide, kills acne bacteria",
+    "Topical or oral antibiotics for moderate acne",
+    "Oral contraceptives for hormonal acne in women",
+    "Isotretinoin (Accutane) for severe nodular acne",
+    "Chemical peels and laser therapy for scarring"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Scarring",
+   "Early treatment prevents permanent acne scars"
+  ],
+  [
+   "Affiliate",
+   "Skincare products, Paula's Choice, CeraVe, La Roche-Posay"
+  ]
+ ],
+ "related": [
+  [
+   "Eczema",
+   "eczema"
+  ],
+  [
+   "Depression",
+   "depression"
+  ],
+  [
+   "Anxiety",
+   "anxiety"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Health Supplements</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Acne: types of pimples, causes including hormones and bacteria, skincare routines, topical and oral treatments for clear skin."
+}

@@ -1,0 +1,124 @@
+{
+ "slug": "tb",
+ "category": "bacteria",
+ "title": "Tuberculosis (TB)",
+ "subtitle": "A potentially serious infectious disease that mainly affects the lungs, caused by Mycobacterium tuberculosis bacteria. It spreads through the air when infected people cough, sneeze, or speak.",
+ "badges": [
+  [
+   "badge-red",
+   "High Risk"
+  ],
+  [
+   "badge-green",
+   "Airborne Droplets"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "High Risk"
+  ],
+  [
+   "Spread",
+   "Airborne Droplets"
+  ],
+  [
+   "Incubation",
+   "2, 12 Weeks"
+  ],
+  [
+   "Vaccine",
+   "BCG Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "TB comes in two forms: latent TB (infection with no symptoms, not contagious) and active TB disease (symptoms present, contagious). Active TB must be treated promptly.",
+   "items": [
+    "Persistent cough lasting 3 or more weeks",
+    "Coughing up blood or mucus",
+    "Chest pain when breathing or coughing",
+    "Unintentional weight loss",
+    "Fatigue and night sweats",
+    "Fever and chills"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "TB is caused by Mycobacterium tuberculosis, a slow-growing bacterium that can lay dormant in the body for years before becoming active.",
+   "items": [
+    "Mycobacterium tuberculosis, gram-positive, acid-fast bacillus",
+    "Airborne transmission, spreads when infected person coughs or sneezes",
+    "Risk increases with prolonged close contact with active TB patient",
+    "HIV co-infection dramatically increases TB risk"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "BCG vaccination, recommended for infants in high-TB-burden countries",
+    "Complete the full course of TB treatment, prevents drug-resistant TB",
+    "Good ventilation in living and working spaces",
+    "Test and treat latent TB in high risk individuals",
+    "Wear N95 mask when caring for active TB patients",
+    "Healthcare workers should get regular TB screening"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Standard 6-month DOTS regimen: Isoniazid, Rifampicin, Pyrazinamide, Ethambutol",
+    "Never skip doses, leads to drug-resistant TB (MDR-TB)",
+    "Drug-resistant TB requires 18, 24 months of treatment",
+    "Directly Observed Therapy (DOTS) ensures treatment completion",
+    "Nutritional support improves outcomes",
+    "Isolation during first 2 weeks of active treatment"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Latent vs Active",
+   "~10% of latent TB becomes active disease"
+  ],
+  [
+   "Drug Resistance",
+   "MDR-TB is a growing global health threat"
+  ]
+ ],
+ "related": [
+  [
+   "Pneumonia",
+   "pneumonia"
+  ],
+  [
+   "Influenza",
+   "flu"
+  ],
+  [
+   "COVID-19",
+   "covid19"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Health Supplements</p><p style=\"font-size:12px;color:var(--ts);margin-bottom:14px\">Vitamins, Minerals, Immunity</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Tuberculosis: symptoms like persistent cough and night sweats, causes, BCG vaccine, and antibiotic treatment. reviewed by experts TB guide."
+}

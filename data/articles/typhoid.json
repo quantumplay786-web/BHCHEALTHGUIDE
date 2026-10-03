@@ -1,0 +1,124 @@
+{
+ "slug": "typhoid",
+ "category": "bacteria",
+ "title": "Typhoid Fever",
+ "subtitle": "A serious and potentially fatal bacterial infection caused by Salmonella typhi, spread through contaminated food and water. Particularly common in areas with poor sanitation.",
+ "badges": [
+  [
+   "badge-red",
+   "High Risk"
+  ],
+  [
+   "badge-green",
+   "Contaminated Food/Water"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "High Risk"
+  ],
+  [
+   "Spread",
+   "Contaminated Food/Water"
+  ],
+  [
+   "Incubation",
+   "6, 30 Days"
+  ],
+  [
+   "Vaccine",
+   "Available"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Typhoid fever remains a serious public health problem in many parts of Asia, Africa, and Latin America. Early antibiotic treatment is essential to prevent complications.",
+   "items": [
+    "Gradually rising fever reaching 40°C (104°F)",
+    "Weakness and fatigue",
+    "Stomach pain, headache, and loss of appetite",
+    "Diarrhea or constipation",
+    "Rose-colored spots on chest and abdomen",
+    "Enlarged spleen and liver"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Typhoid fever is caused by the bacterium Salmonella enterica serovar Typhi (S. typhi). It is exclusively a human pathogen.",
+   "items": [
+    "Salmonella typhi bacterium in contaminated water or food",
+    "Spread by poor hand hygiene, fecal-oral route",
+    "Contaminated drinking water from sewage",
+    "Raw fruits, vegetables washed in contaminated water"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Typhoid vaccine, oral and injectable options available",
+    "Drink only bottled or boiled water",
+    "Eat food that is thoroughly cooked and still hot",
+    "Wash hands with soap before eating and after toilet use",
+    "Avoid raw vegetables and salads in high risk areas",
+    "Proper sanitation and sewage treatment"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Antibiotics: Ciprofloxacin, Azithromycin, or Ceftriaxone",
+    "Dexamethasone for severe cases with neurological complications",
+    "Rest and stay well hydrated",
+    "Oral rehydration for diarrhea management",
+    "Surgery may be needed for intestinal perforation",
+    "Carriers should be treated to prevent ongoing spread"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Endemic Regions",
+   "South Asia, Sub-Saharan Africa, South-East Asia"
+  ],
+  [
+   "Complications",
+   "Intestinal perforation, encephalopathy (5-10% if untreated)"
+  ]
+ ],
+ "related": [
+  [
+   "Tuberculosis",
+   "tb"
+  ],
+  [
+   "Pneumonia",
+   "pneumonia"
+  ],
+  [
+   "COVID-19",
+   "covid19"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Health Supplements</p><p style=\"font-size:12px;color:var(--ts);margin-bottom:14px\">Vitamins, Minerals, Immunity</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Typhoid Fever: symptoms, causes by Salmonella typhi, vaccine options, and antibiotic treatments. for high risk areas."
+}

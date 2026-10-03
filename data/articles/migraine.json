@@ -1,0 +1,126 @@
+{
+ "slug": "migraine",
+ "category": "neuro",
+ "title": "Migraine",
+ "subtitle": "A complex neurological condition causing recurrent episodes of severe, often one-sided headache with associated symptoms like nausea, vomiting, and sensitivity to light and sound.",
+ "badges": [
+  [
+   "badge-orange",
+   "Common"
+  ],
+  [
+   "badge-blue",
+   "Neurological"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Common"
+  ],
+  [
+   "Type",
+   "Neurological"
+  ],
+  [
+   "Onset",
+   "Episodic"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Migraine affects approximately 1 billion people worldwide, making it the third most prevalent illness globally. It is more common in women (3:1 ratio) and most frequently occurs between ages 25-55.",
+   "items": [
+    "Severe, throbbing or pulsating headache, often one-sided",
+    "Aura, visual disturbances (zigzag lines, blind spots) in 25-30% of cases",
+    "Nausea and vomiting",
+    "Extreme sensitivity to light (photophobia) and sound (phonophobia)",
+    "Prodrome, mood changes, food cravings, yawning hours before headache",
+    "Postdrome, fatigue, cognitive fog ('migraine hangover') after attack"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Migraines involve complex changes in brain chemistry and nerve pathways. The trigeminal nerve system and serotonin play major roles.",
+   "items": [
+    "Cortical spreading depression, a wave of electrical activity across the brain",
+    "Trigeminal nerve activation releasing inflammatory peptides (CGRP)",
+    "Genetic predisposition, 70% of migraineurs have a family history",
+    "Hormonal changes, especially around menstruation in women",
+    "Common triggers: stress, sleep changes, skipping meals, bright lights, alcohol",
+    "Weather changes and strong smells can also trigger attacks"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Keep a migraine diary to identify personal triggers",
+    "Maintain regular sleep schedule, even on weekends",
+    "Stay well hydrated and do not skip meals",
+    "Manage stress with mindfulness, yoga, or therapy",
+    "Limit caffeine intake and avoid known dietary triggers",
+    "Wear sunglasses in bright light and use blue light filters on screens"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Acute (abort attacks): Triptans (Sumatriptan), NSAIDs, anti-nausea medications",
+    "CGRP antagonists (Ubrogepant, Rimegepant), newer fast-acting options",
+    "Preventive (reduce frequency): Beta-blockers, Topiramate, Amitriptyline",
+    "CGRP monoclonal antibodies (Aimovig, Ajovy), monthly/quarterly injections",
+    "Botulinum toxin injections for chronic migraine (15+ days/month)",
+    "Biofeedback and cognitive behavioral therapy help reduce frequency"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Global Burden",
+   "3rd most prevalent illness; 1 billion affected worldwide"
+  ],
+  [
+   "Disability",
+   "6th most disabling condition, affects work and quality of life"
+  ]
+ ],
+ "related": [
+  [
+   "Epilepsy",
+   "epilepsy"
+  ],
+  [
+   "Stroke",
+   "stroke"
+  ],
+  [
+   "Depression",
+   "depression"
+  ]
+ ],
+ "related_label": "Related Conditions",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Online Therapy</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Talk to a Licensed Therapist</p><a class=\"btn-p\" href=\"https://betterhelp.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Try BetterHelp</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Migraine: types, aura symptoms, common triggers, preventive and acute medications. reviewed by experts neurology guide."
+}

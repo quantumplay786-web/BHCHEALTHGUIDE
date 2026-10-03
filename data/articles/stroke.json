@@ -1,0 +1,126 @@
+{
+ "slug": "stroke",
+ "category": "neuro",
+ "title": "Stroke (Brain Attack)",
+ "subtitle": "A medical emergency where blood supply to part of the brain is cut off, causing brain cells to die. Every minute without treatment, 1.9 million neurons are lost, time is brain.",
+ "badges": [
+  [
+   "badge-red",
+   "Emergency"
+  ],
+  [
+   "badge-blue",
+   "Neurological"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Emergency"
+  ],
+  [
+   "Type",
+   "Neurological"
+  ],
+  [
+   "Onset",
+   "Sudden Onset"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Stroke is the second leading cause of death and the third leading cause of disability worldwide. Acting within 3-4.5 hours of symptom onset dramatically improves survival and recovery outcomes.",
+   "items": [
+    "Face drooping, one side of the face droops or is numb",
+    "Arm weakness, one arm is weak or numb when raised",
+    "Speech difficulty, slurred speech, confusion, unable to speak",
+    "Sudden severe headache with no known cause",
+    "Sudden vision loss in one or both eyes",
+    "Sudden trouble walking, dizziness, loss of balance"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Strokes occur in two main forms: ischemic (blockage of blood vessel) accounting for 87% of cases, and hemorrhagic (rupture of a blood vessel).",
+   "items": [
+    "Ischemic stroke, blood clot blocking an artery supplying the brain",
+    "Hemorrhagic stroke, blood vessel ruptures and bleeds into the brain",
+    "High blood pressure, the single biggest risk factor for stroke",
+    "Atrial fibrillation, irregular heartbeat increases clot formation risk",
+    "Diabetes, high cholesterol, smoking, obesity, physical inactivity",
+    "TIA (transient ischemic attack), mini-stroke warning sign"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Control blood pressure, most important stroke prevention measure",
+    "Do not smoke, smoking doubles stroke risk",
+    "Treat atrial fibrillation with anticoagulants as prescribed",
+    "Control diabetes and maintain healthy cholesterol levels",
+    "Exercise 150 minutes per week; maintain healthy weight",
+    "Limit alcohol and eat a heart-healthy diet"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Call emergency services immediately, do not drive yourself",
+    "tPA (clot-busting drug), must be given within 3-4.5 hours of ischemic stroke",
+    "Mechanical thrombectomy, catheter to physically remove clot (up to 24 hours)",
+    "Surgery for hemorrhagic stroke to relieve pressure",
+    "Aspirin started within 48 hours of ischemic stroke",
+    "Rehabilitation, physiotherapy, speech therapy, occupational therapy"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Remember FAST",
+   "Face, Arms, Speech, Time, call emergency if any sign appears"
+  ],
+  [
+   "Recovery",
+   "30% make full recovery; early rehab dramatically improves outcomes"
+  ]
+ ],
+ "related": [
+  [
+   "Hypertension",
+   "hypertension"
+  ],
+  [
+   "Alzheimer's",
+   "alzheimers"
+  ],
+  [
+   "Epilepsy",
+   "epilepsy"
+  ]
+ ],
+ "related_label": "Related Conditions",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Online Therapy</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Talk to a Licensed Therapist</p><a class=\"btn-p\" href=\"https://betterhelp.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Try BetterHelp</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Stroke: FAST warning signs, ischemic vs hemorrhagic, causes, emergency treatment, and rehabilitation. reviewed by experts neurology guide."
+}

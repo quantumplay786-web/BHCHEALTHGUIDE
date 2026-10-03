@@ -1,0 +1,124 @@
+{
+ "slug": "hepatitis",
+ "category": "viruses",
+ "title": "Hepatitis B",
+ "subtitle": "A serious liver infection caused by the Hepatitis B virus (HBV) that can become chronic and lead to liver failure, cirrhosis, or liver cancer.",
+ "badges": [
+  [
+   "badge-red",
+   "High Risk"
+  ],
+  [
+   "badge-blue",
+   "Blood, Sexual Contact"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "High Risk"
+  ],
+  [
+   "Spread",
+   "Blood, Sexual Contact"
+  ],
+  [
+   "Incubation",
+   "60, 150 Days"
+  ],
+  [
+   "Vaccine",
+   "Available"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Many people with hepatitis B do not have symptoms when first infected. Some develop a short term acute illness. Others develop a long term chronic infection that can cause serious liver damage over decades.",
+   "items": [
+    "Jaundice, yellowing of skin and eyes",
+    "Dark urine and pale stools",
+    "Extreme fatigue and weakness",
+    "Nausea, vomiting, and loss of appetite",
+    "Abdominal pain in the right upper area",
+    "Fever and joint pain (acute phase)"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Hepatitis B is caused by the hepatitis B virus (HBV), a partially double-stranded DNA virus of the Hepadnaviridae family. It attacks liver cells and can persist for decades.",
+   "items": [
+    "Hepatitis B virus (HBV), highly infectious, 50, 100x more contagious than HIV",
+    "Transmitted via infected blood, sexual fluids, or from mother to child at birth",
+    "Sharing needles, syringes, or drug equipment",
+    "Unprotected sexual intercourse with infected person"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Hepatitis B vaccine, safe, effective, 3-dose series",
+    "Use condoms during sexual intercourse",
+    "Never share needles, syringes, or personal items",
+    "Ensure sterile medical and tattoo equipment",
+    "Test during pregnancy, treat if positive to protect baby",
+    "HBIG (Hepatitis B immune globulin) after high risk exposure"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Acute hepatitis B, rest, fluids, and symptom management",
+    "Antiviral medications: Tenofovir, Entecavir for chronic HBV",
+    "Interferon injections for some chronic cases",
+    "Regular liver function tests and viral load monitoring",
+    "Avoid alcohol, severely worsens liver damage",
+    "Liver transplant considered in end-stage liver disease"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Affects",
+   "Liver, the body's largest internal organ"
+  ],
+  [
+   "Chronic Rate",
+   "~5% of adults; up to 90% in infected newborns"
+  ]
+ ],
+ "related": [
+  [
+   "COVID-19",
+   "covid19"
+  ],
+  [
+   "Influenza",
+   "flu"
+  ],
+  [
+   "Dengue Fever",
+   "dengue"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Health Supplements</p><p style=\"font-size:12px;color:var(--ts);margin-bottom:14px\">Vitamins, Minerals, Immunity</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Hepatitis B: symptoms like jaundice and fatigue, causes, vaccine information, and antiviral treatments. reviewed by experts liver disease guide."
+}

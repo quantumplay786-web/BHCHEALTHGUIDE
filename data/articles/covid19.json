@@ -1,0 +1,161 @@
+{
+ "slug": "covid19",
+ "category": "viruses",
+ "title": "COVID-19 (Coronavirus Disease)",
+ "subtitle": "A respiratory illness caused by the SARS-CoV-2 virus, first identified in Wuhan, China in late 2019.",
+ "badges": [
+  [
+   "badge-red",
+   "High Risk"
+  ],
+  [
+   "badge-blue",
+   "Viral Disease"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "High"
+  ],
+  [
+   "Spread Type",
+   "Airborne, Droplets"
+  ],
+  [
+   "Incubation",
+   "2, 14 Days"
+  ],
+  [
+   "Vaccine",
+   "Available"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "COVID-19 symptoms range from mild to severe. Most people experience mild to moderate illness and recover without special treatment. Older adults and those with underlying conditions are at greater risk of serious illness.",
+   "items": []
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "COVID-19 is caused by SARS-CoV-2, a novel coronavirus. The virus has spike proteins on its surface that attach to ACE2 receptors found in the lungs, heart, kidneys, and other organs.",
+   "items": [
+    "SARS-CoV-2 virus belonging to the Coronaviridae family",
+    "Variants including Alpha, Delta, Omicron, and subvariants",
+    "Zoonotic origin, believed to have jumped from animals to humans",
+    "Mutations continue to produce new variants with different characteristics"
+   ]
+  },
+  {
+   "id": "acc-trans",
+   "title": "Transmission",
+   "color": "blue",
+   "open": true,
+   "intro": "COVID-19 spreads primarily through respiratory droplets and aerosols when an infected person breathes, coughs, sneezes, talks, or sings. Close contact is the main route of transmission.",
+   "items": [
+    "Respiratory droplets from coughs and sneezes",
+    "Airborne aerosols in poorly ventilated spaces",
+    "Close personal contact (within 1 metre)",
+    "Touching contaminated surfaces then touching face",
+    "Asymptomatic and pre-symptomatic spread is common",
+    "Highest risk in enclosed, crowded, poorly ventilated areas"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "Vaccination remains the most effective protection against severe COVID-19. Combining vaccination with good hygiene and ventilation provides the best defense.",
+   "items": [
+    "Get vaccinated and stay up to date with boosters",
+    "Wear a well-fitting mask in crowded indoor settings",
+    "Wash hands frequently with soap for 20 seconds",
+    "Improve ventilation, open windows, use air purifiers",
+    "Maintain distance from people who are ill",
+    "Avoid touching eyes, nose, and mouth"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "Most people with COVID-19 recover at home with rest and symptom management. Severe cases may require hospitalization and advanced medical care.",
+   "items": [
+    "Rest and stay hydrated, most mild cases resolve in 1, 2 weeks",
+    "Antivirals (e.g. Paxlovid/nirmatrelvir) for high risk patients",
+    "Fever reducers like paracetamol or ibuprofen",
+    "Oxygen therapy for cases with low blood oxygen",
+    "Mechanical ventilation in critical cases",
+    "Isolation to prevent spreading to others"
+   ]
+  },
+  {
+   "id": "acc-diag",
+   "title": "Diagnosis",
+   "color": "blue",
+   "open": false,
+   "intro": "COVID-19 can be diagnosed with several types of tests. Early testing helps with treatment decisions and prevents spread to others.",
+   "items": [
+    "PCR test (Polymerase Chain Reaction), most accurate, detects viral RNA",
+    "Rapid Antigen Test, quick home-use test, results in 15, 30 minutes",
+    "Antibody test, detects past infection, not for active diagnosis",
+    "CT scan or chest X-ray may be used for severe respiratory cases"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Also known as",
+   "Coronavirus, SARS-CoV-2 infection"
+  ],
+  [
+   "First identified",
+   "December 2019, Wuhan, China"
+  ],
+  [
+   "Affected organs",
+   "Lungs, heart, kidneys, brain"
+  ],
+  [
+   "Recovery time",
+   "1, 4 weeks for mild cases"
+  ]
+ ],
+ "related": [
+  [
+   "Influenza (Flu)",
+   "flu"
+  ],
+  [
+   "Pneumonia",
+   "pneumonia"
+  ],
+  [
+   "Dengue Fever",
+   "dengue"
+  ],
+  [
+   "Tuberculosis",
+   "tb"
+  ],
+  [
+   "Asthma",
+   "asthma"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\">\n<div class=\"sw-head\" style=\"background:#e3f4fd\">Recommended</div>\n<div class=\"sw-body\" style=\"text-align:center;padding:20px 18px\">\n<svg fill=\"none\" height=\"36\" style=\"margin:0 auto 8px\" viewbox=\"0 0 24 24\" width=\"36\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\" stroke=\"#1a8fd1\" stroke-width=\"2\"></path><path d=\"M9 12l2 2 4-4\" stroke=\"#1a8fd1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\"></path></svg>\n<p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Immune Support Supplements</p>\n<p style=\"font-size:12px;color:var(--ts);margin-bottom:14px\">Vitamin C, D, Zinc, trusted brands</p>\n<!-- Replace href with your iHerb or Amazon affiliate link -->\n<a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a>\n</div>\n</div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to COVID-19: symptoms, causes, how it spreads, prevention, and treatment options. reviewed by experts information on SARS-CoV-2 and Coronavirus disease."
+}

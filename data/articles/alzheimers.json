@@ -1,0 +1,126 @@
+{
+ "slug": "alzheimers",
+ "category": "neuro",
+ "title": "Alzheimer's Disease",
+ "subtitle": "The most common form of dementia, a progressive neurological disease that destroys memory and thinking skills. It accounts for 60-80% of all dementia cases.",
+ "badges": [
+  [
+   "badge-red",
+   "Progressive"
+  ],
+  [
+   "badge-blue",
+   "Neurological"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Progressive"
+  ],
+  [
+   "Type",
+   "Neurological"
+  ],
+  [
+   "Onset",
+   "Gradual (60s+)"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Alzheimer's affects over 55 million people worldwide. It is the 7th leading cause of death globally. Early diagnosis allows for better planning and access to treatments that can temporarily slow symptoms.",
+   "items": [
+    "Memory loss disrupting daily life, forgetting recently learned information",
+    "Difficulty with problem-solving and planning familiar tasks",
+    "Confusion with time, dates, seasons, and passage of time",
+    "Vision and spatial difficulties, trouble judging distances",
+    "Withdrawing from social activities and hobbies",
+    "Changes in mood, personality, confusion, suspicion, depression"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes & Risk Factors",
+   "color": "red",
+   "open": true,
+   "intro": "Alzheimer's is caused by abnormal protein deposits in the brain that disrupt communication between nerve cells, leading to cell death and brain shrinkage.",
+   "items": [
+    "Amyloid plaques, abnormal clumps of beta-amyloid protein between neurons",
+    "Tau tangles, twisted strands of tau protein inside neurons",
+    "APOE-e4 gene, major genetic risk factor (3-4x increased risk)",
+    "Age is the biggest risk factor, doubles every 5 years after 65",
+    "Head injuries and poor cardiovascular health increase risk",
+    "Women have higher lifetime risk (partly due to longer lifespan)"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention & Lifestyle",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Stay mentally active, learning new skills, reading, puzzles",
+    "Regular physical exercise, improves blood flow to brain",
+    "Maintain good cardiovascular health, control blood pressure and diabetes",
+    "Maintain social connections and engage with community",
+    "Mediterranean and MIND diet associated with lower risk",
+    "Quality sleep, brain clears amyloid during deep sleep"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Cholinesterase inhibitors, Donepezil, Rivastigmine, Galantamine (slow decline)",
+    "Memantine, for moderate to severe cases",
+    "Lecanemab (Leqembi), new anti-amyloid therapy; slows early-stage decline",
+    "Cognitive stimulation therapy and structured routine",
+    "Caregiver support and respite care programs",
+    "Safe home modifications, fall prevention, wandering alarms"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Caregiver Burden",
+   "Over 60% of Alzheimer's patients are cared for at home"
+  ],
+  [
+   "Early Signs",
+   "Memory problems alone are not always Alzheimer's, consult a specialist"
+  ]
+ ],
+ "related": [
+  [
+   "Parkinson's Disease",
+   "parkinson"
+  ],
+  [
+   "Stroke",
+   "stroke"
+  ],
+  [
+   "Depression",
+   "depression"
+  ]
+ ],
+ "related_label": "Related Conditions",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Online Therapy</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Talk to a Licensed Therapist</p><p style=\"font-size:12px;color:var(--ts);margin-bottom:14px\">From $40/week. Start anytime.</p><a class=\"btn-p\" href=\"https://betterhelp.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Try BetterHelp</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Alzheimer's Disease: early signs, stages of dementia, amyloid plaques, care strategies, and current treatment options."
+}

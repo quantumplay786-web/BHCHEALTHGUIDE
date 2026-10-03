@@ -1,0 +1,132 @@
+{
+ "slug": "flu",
+ "category": "viruses",
+ "title": "Influenza (Flu)",
+ "subtitle": "A highly contagious respiratory illness caused by Influenza A, B, or C viruses that infects the nose, throat, and lungs.",
+ "badges": [
+  [
+   "badge-orange",
+   "Medium Risk"
+  ],
+  [
+   "badge-blue",
+   "Viral Disease"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Medium"
+  ],
+  [
+   "Spread",
+   "Droplets, Contact"
+  ],
+  [
+   "Incubation",
+   "1, 4 Days"
+  ],
+  [
+   "Vaccine",
+   "Annual"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Flu symptoms come on suddenly and are more severe than the common cold. They typically appear 1, 4 days after exposure and last 5, 7 days.",
+   "items": [
+    "Sudden high fever (38, 41°C) with chills",
+    "Severe muscle aches and body pains",
+    "Persistent dry cough and sore throat",
+    "Extreme fatigue and weakness",
+    "Headache, runny or stuffy nose",
+    "Vomiting and diarrhea (more common in children)"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Influenza viruses are RNA viruses belonging to the Orthomyxoviridae family. They mutate rapidly, which is why a new flu vaccine is needed every year.",
+   "items": [
+    "Influenza A, most common, causes seasonal epidemics and pandemics",
+    "Influenza B, seasonal outbreaks, less severe than A",
+    "Influenza C, mild illness, not responsible for epidemics",
+    "H1N1, H3N2, common circulating subtypes of Influenza A"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "Annual flu vaccination is the single most effective way to prevent influenza. The vaccine is updated each year to match circulating strains.",
+   "items": [
+    "Get the annual flu vaccine every autumn",
+    "Wash hands frequently with soap and water",
+    "Avoid close contact with sick people",
+    "Cover mouth and nose when coughing or sneezing",
+    "Stay home when sick to prevent spreading",
+    "Disinfect commonly touched surfaces"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "Most flu cases resolve on their own with rest and fluids. Antiviral medications can reduce severity if started within 48 hours of symptoms.",
+   "items": [
+    "Rest and drink plenty of fluids",
+    "Oseltamivir (Tamiflu), antiviral for high risk patients",
+    "Paracetamol or ibuprofen for fever and pain",
+    "Avoid aspirin in children (risk of Reye's syndrome)",
+    "Seek medical care if symptoms worsen after day 5",
+    "Hospitalization for pneumonia complications"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Season",
+   "October to March (Northern Hemisphere)"
+  ],
+  [
+   "Recovery",
+   "5, 7 days for most healthy adults"
+  ],
+  [
+   "High Risk",
+   "Elderly, pregnant, children under 5"
+  ]
+ ],
+ "related": [
+  [
+   "COVID-19",
+   "covid19"
+  ],
+  [
+   "Pneumonia",
+   "pneumonia"
+  ],
+  [
+   "Tuberculosis",
+   "tb"
+  ],
+  [
+   "Asthma",
+   "asthma"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Cold &amp; Flu Relief Products</p><p style=\"font-size:12px;color:var(--ts);margin-bottom:14px\">Vitamin C, Zinc, Elderberry</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Influenza (Flu): symptoms, causes, how it spreads, flu vaccine guide, and treatment. reviewed by experts information on Influenza A, B, and C."
+}

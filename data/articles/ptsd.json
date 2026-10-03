@@ -1,0 +1,126 @@
+{
+ "slug": "ptsd",
+ "category": "psychology",
+ "title": "PTSD (Post-Traumatic Stress Disorder)",
+ "subtitle": "A mental health condition triggered by experiencing or witnessing a traumatic event, causing lasting psychological distress, flashbacks, nightmares, and altered emotional responses.",
+ "badges": [
+  [
+   "badge-orange",
+   "Medium Risk"
+  ],
+  [
+   "badge-purple",
+   "Psychological"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Medium Risk"
+  ],
+  [
+   "Type",
+   "Psychological"
+  ],
+  [
+   "Onset",
+   "After Trauma"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "PTSD affects approximately 3.9% of the global population. It can develop after any traumatic event, not just combat or major disasters. Women are twice as likely as men to develop PTSD after a trauma.",
+   "items": [
+    "Intrusive memories, flashbacks, nightmares of the traumatic event",
+    "Hyperarousal, being easily startled, feeling tense, difficulty sleeping",
+    "Avoidance, staying away from places, people, or thoughts linked to the trauma",
+    "Negative changes in thinking and mood, guilt, shame, emotional numbness",
+    "Dissociation, feeling detached from oneself or surroundings",
+    "Physical reactions to trauma reminders, rapid heart rate, sweating"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "PTSD develops when the normal processing of trauma is disrupted, causing the memory to be stored in a fragmented, highly emotional state that re-activates when triggered.",
+   "items": [
+    "Traumatic experiences, combat, assault, accidents, natural disasters, abuse",
+    "Dysregulation of the amygdala (fear response) and hippocampus (memory)",
+    "Low cortisol levels after trauma, different from normal stress response",
+    "Pre-existing anxiety, depression, or lack of social support increases risk",
+    "Childhood trauma, adverse childhood experiences (ACEs) increase vulnerability",
+    "Severity, duration, and proximity to the trauma affect likelihood of PTSD"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Seek support quickly after trauma, social support is highly protective",
+    "Psychological first aid within days of trauma reduces PTSD risk",
+    "Avoid alcohol and drugs as coping, worsen long term outcomes",
+    "Maintain routine and structure in daily life",
+    "Process the event through talking with trusted people or a therapist",
+    "Early therapy (Trauma-Focused CBT) prevents PTSD from becoming chronic"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Trauma-Focused CBT (TF-CBT), processing trauma memories safely",
+    "EMDR (Eye Movement Desensitization and Reprocessing), highly effective",
+    "Prolonged Exposure (PE) therapy, facing trauma triggers in safe context",
+    "SSRIs, Sertraline, Paroxetine (FDA-approved for PTSD)",
+    "Prazosin for trauma-related nightmares",
+    "Group therapy and peer support programs for veterans and survivors"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "EMDR Therapy",
+   "Recognized by WHO as a first-line PTSD treatment"
+  ],
+  [
+   "Affiliate",
+   "BetterHelp, online PTSD-specialized therapists available now"
+  ]
+ ],
+ "related": [
+  [
+   "OCD",
+   "ocd"
+  ],
+  [
+   "Anxiety Disorder",
+   "anxiety"
+  ],
+  [
+   "Depression",
+   "depression"
+  ]
+ ],
+ "related_label": "Related Conditions",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Online Therapy</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Talk to a Licensed Therapist</p><a class=\"btn-p\" href=\"https://betterhelp.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Try BetterHelp</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to PTSD: flashback triggers, hypervigilance, EMDR therapy, trauma-focused CBT, and medication options. reviewed by experts mental health guide."
+}

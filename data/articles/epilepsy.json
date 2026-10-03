@@ -1,0 +1,126 @@
+{
+ "slug": "epilepsy",
+ "category": "neuro",
+ "title": "Epilepsy",
+ "subtitle": "A chronic neurological disorder characterized by recurrent, unprovoked seizures caused by abnormal electrical activity in the brain.",
+ "badges": [
+  [
+   "badge-orange",
+   "Manageable"
+  ],
+  [
+   "badge-blue",
+   "Neurological"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Manageable"
+  ],
+  [
+   "Type",
+   "Neurological"
+  ],
+  [
+   "Onset",
+   "Any Age"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Epilepsy affects over 50 million people worldwide. About 70% of people with epilepsy can become seizure-free with appropriate anti-epileptic medication. The type of seizure depends on which part of the brain is affected.",
+   "items": [
+    "Focal (partial) seizures, abnormal movement or sensation in one body part",
+    "Tonic-clonic (grand mal) seizures, loss of consciousness, body stiffening, jerking",
+    "Absence seizures, brief staring spells, common in children",
+    "Temporary confusion or staring episode",
+    "Uncontrollable jerking movements of arms and legs",
+    "Aura, unusual sensations or feelings before a seizure"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes & Risk Factors",
+   "color": "red",
+   "open": true,
+   "intro": "Epilepsy results from abnormal electrical discharges in brain neurons. In many cases no cause is found (idiopathic epilepsy).",
+   "items": [
+    "Genetic mutations, many forms of epilepsy have hereditary components",
+    "Brain injuries, stroke, trauma, tumors, infections",
+    "Developmental disorders, autism spectrum disorder, Down syndrome",
+    "Previous brain infection, meningitis, encephalitis",
+    "Prenatal brain damage, lack of oxygen, poor nutrition during development",
+    "Unknown cause in up to 50% of cases (idiopathic)"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention & Lifestyle",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Take anti-epileptic medications exactly as prescribed, never skip doses",
+    "Get adequate sleep, sleep deprivation is a major seizure trigger",
+    "Avoid alcohol and recreational drugs",
+    "Manage stress through mindfulness and relaxation techniques",
+    "Avoid known personal triggers (flashing lights, fever)",
+    "Wear medical ID bracelet so others can help during a seizure"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Anti-epileptic drugs (AEDs), Levetiracetam, Valproate, Carbamazepine, Lamotrigine",
+    "70% of patients become seizure-free with appropriate medication",
+    "Surgery for drug-resistant focal epilepsy, resect the seizure focus",
+    "Vagus nerve stimulation (VNS) device for refractory cases",
+    "Ketogenic diet, high-fat, low-carb diet proven effective in children",
+    "SUDEP prevention, never stop medication suddenly"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Global Prevalence",
+   "50+ million people worldwide; most common neurological condition"
+  ],
+  [
+   "First Aid",
+   "Protect from injury; do NOT restrain; time the seizure"
+  ]
+ ],
+ "related": [
+  [
+   "Migraine",
+   "migraine"
+  ],
+  [
+   "Alzheimer's",
+   "alzheimers"
+  ],
+  [
+   "Stroke",
+   "stroke"
+  ]
+ ],
+ "related_label": "Related Conditions",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Online Therapy</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Talk to a Licensed Therapist</p><p style=\"font-size:12px;color:var(--ts);margin-bottom:14px\">From $40/week. Start anytime.</p><a class=\"btn-p\" href=\"https://betterhelp.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Try BetterHelp</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Epilepsy: types of seizures, causes, anti-epileptic drugs, and triggers to avoid. reviewed by experts neurology guide."
+}

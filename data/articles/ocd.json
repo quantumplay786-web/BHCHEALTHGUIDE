@@ -1,0 +1,126 @@
+{
+ "slug": "ocd",
+ "category": "psychology",
+ "title": "Obsessive-Compulsive Disorder (OCD)",
+ "subtitle": "A mental health disorder where people experience recurring unwanted thoughts (obsessions) and engage in repetitive behaviors (compulsions) in an attempt to reduce anxiety.",
+ "badges": [
+  [
+   "badge-orange",
+   "Common"
+  ],
+  [
+   "badge-purple",
+   "Psychological"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Common"
+  ],
+  [
+   "Type",
+   "Psychological"
+  ],
+  [
+   "Onset",
+   "Often Childhood/Teen"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "OCD affects approximately 2.5% of the global population. It is not about liking things clean or organized, it causes significant distress and can consume hours of a person's day. It is highly treatable with the right therapy.",
+   "items": [
+    "Obsessions, persistent, intrusive, unwanted thoughts or images",
+    "Compulsions, repetitive behaviors or mental acts to reduce anxiety",
+    "Common themes: contamination and cleaning, symmetry and ordering, harm and checking",
+    "Time-consuming rituals that interfere with daily life",
+    "Significant distress and insight that obsessions are irrational",
+    "Avoidance of situations that trigger obsessional thoughts"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "OCD results from a combination of genetic, neurobiological, and environmental factors involving dysregulation of serotonin and circuits in the brain's frontal lobe.",
+   "items": [
+    "Abnormal activity in the orbitofrontal cortex-striatum-thalamus circuit",
+    "Serotonin dysregulation, SSRIs are effective, confirming serotonin involvement",
+    "Genetic factors, 40-65% heritability; family history increases risk",
+    "Stressful or traumatic life events can trigger onset",
+    "PANDAS (pediatric autoimmune), OCD triggered by strep infection in children",
+    "Personality traits, perfectionism, high responsibility, threat overestimation"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Early therapy reduces the chance of symptoms becoming severe and chronic",
+    "Avoid reassurance-seeking behaviors, they maintain the OCD cycle",
+    "Do not accommodate OCD rituals, gradual exposure is more effective",
+    "Reduce overall stress through exercise and mindfulness",
+    "Build a support network who understands OCD",
+    "Online CBT programs available if specialist access is limited"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Exposure and Response Prevention (ERP), gold standard therapy; 60-80% effective",
+    "SSRIs at higher doses, Fluoxetine, Sertraline, Fluvoxamine",
+    "Clomipramine (tricyclic) for treatment-resistant OCD",
+    "Acceptance and Commitment Therapy (ACT) as complement to ERP",
+    "Deep Brain Stimulation for severe, treatment-resistant OCD",
+    "BetterHelp, online therapists specializing in OCD and ERP"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Key Distinction",
+   "OCD is ego-dystonic, the obsessions are unwanted and distressing"
+  ],
+  [
+   "Recovery",
+   "70%+ respond to ERP therapy. Full recovery is possible."
+  ]
+ ],
+ "related": [
+  [
+   "PTSD",
+   "ptsd"
+  ],
+  [
+   "Anxiety Disorder",
+   "anxiety"
+  ],
+  [
+   "Depression",
+   "depression"
+  ]
+ ],
+ "related_label": "Related Conditions",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Online Therapy</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Talk to a Licensed Therapist</p><a class=\"btn-p\" href=\"https://betterhelp.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Try BetterHelp</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to OCD: obsessions vs compulsions, common themes, ERP therapy, SSRI medications, and recovery strategies."
+}

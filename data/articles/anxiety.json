@@ -1,0 +1,126 @@
+{
+ "slug": "anxiety",
+ "category": "mental",
+ "title": "Generalized Anxiety Disorder",
+ "subtitle": "A mental health condition characterized by persistent, excessive, and uncontrollable worry about everyday situations, accompanied by physical symptoms like racing heart and muscle tension.",
+ "badges": [
+  [
+   "badge-orange",
+   "Common"
+  ],
+  [
+   "badge-green",
+   "Non-Contagious"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Common"
+  ],
+  [
+   "Spread",
+   "Non-Contagious"
+  ],
+  [
+   "Onset",
+   "Gradual Onset"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Anxiety disorders are the most common mental health conditions worldwide, affecting over 301 million people. They are highly treatable, yet most sufferers do not seek help due to stigma.",
+   "items": [
+    "Excessive, uncontrollable worrying about multiple topics",
+    "Restlessness and feeling on edge",
+    "Rapid heartbeat, shortness of breath, chest tightness",
+    "Muscle tension, headaches, and fatigue",
+    "Difficulty concentrating, mind going blank",
+    "Sleep problems, difficulty falling or staying asleep"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Anxiety disorders develop from a complex mix of genetic, neurological, environmental, and psychological factors.",
+   "items": [
+    "Overactivity of the amygdala, the brain's fear center",
+    "Genetic predisposition, runs in families",
+    "Chronic stress and traumatic life events",
+    "Certain medical conditions (hyperthyroidism, heart arrhythmia)",
+    "Caffeine, stimulants, and withdrawal from alcohol",
+    "Personality traits, perfectionism and low distress tolerance"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Practice regular mindfulness and deep breathing exercises",
+    "Limit caffeine and alcohol consumption",
+    "Exercise regularly, releases natural anti-anxiety endorphins",
+    "Maintain consistent sleep routine",
+    "Seek therapy early, anxiety responds well to treatment",
+    "Build a strong social support network"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Cognitive Behavioural Therapy (CBT), most effective psychological treatment",
+    "SSRIs/SNRIs, first-line medications (Escitalopram, Sertraline)",
+    "Buspirone for GAD without sedation",
+    "short term benzodiazepines for acute anxiety, caution: habit-forming",
+    "Mindfulness-Based Stress Reduction (MBSR)",
+    "BetterHelp online therapy, accessible from home"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Most Common",
+   "Anxiety is the world's most common mental health disorder"
+  ],
+  [
+   "Online Therapy",
+   "BetterHelp, up to $100 affiliate commission per signup"
+  ]
+ ],
+ "related": [
+  [
+   "Depression",
+   "depression"
+  ],
+  [
+   "Hypertension",
+   "hypertension"
+  ],
+  [
+   "Asthma",
+   "asthma"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Health Supplements</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Anxiety Disorder: symptoms, causes, CBT therapy, medication options, and coping strategies. reviewed by experts mental health information."
+}

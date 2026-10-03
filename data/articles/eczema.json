@@ -1,0 +1,126 @@
+{
+ "slug": "eczema",
+ "category": "skin",
+ "title": "Eczema (Atopic Dermatitis)",
+ "subtitle": "A chronic inflammatory skin condition causing itchy, dry, red, and cracked skin. It commonly starts in childhood but can affect people of all ages.",
+ "badges": [
+  [
+   "badge-orange",
+   "Manageable"
+  ],
+  [
+   "badge-purple",
+   "Non-Contagious"
+  ]
+ ],
+ "qbar": [
+  [
+   "Severity",
+   "Manageable"
+  ],
+  [
+   "Spread",
+   "Non-Contagious"
+  ],
+  [
+   "Onset",
+   "Chronic, Flare-Ups"
+  ],
+  [
+   "Vaccine",
+   "No Vaccine"
+  ]
+ ],
+ "sections": [
+  {
+   "id": "acc-sym",
+   "title": "Symptoms",
+   "color": "blue",
+   "open": true,
+   "intro": "Eczema affects about 10-20% of children and 1-3% of adults worldwide. While it cannot be cured, most people can manage their symptoms effectively with proper skincare and trigger avoidance.",
+   "items": [
+    "Intense itching, especially at night",
+    "Dry, cracked, scaly skin patches",
+    "Red to brownish-grey patches on hands, feet, ankles, wrists, neck",
+    "Small, raised bumps that may weep fluid and crust",
+    "Thickened, leathery skin from scratching (lichenification)",
+    "Raw, swollen skin from scratching"
+   ]
+  },
+  {
+   "id": "acc-cause",
+   "title": "Causes",
+   "color": "red",
+   "open": true,
+   "intro": "Eczema results from a combination of genetic and environmental factors that impair the skin barrier and dysregulate the immune response.",
+   "items": [
+    "Gene mutations affecting the skin barrier protein filaggrin",
+    "Overactive immune response to environmental triggers",
+    "Family history of eczema, hay fever, or asthma",
+    "Environmental triggers, soap, detergent, pollen, pet dander",
+    "Stress and sweating can trigger flare-ups",
+    "Food allergies (in some cases), eggs, peanuts, dairy"
+   ]
+  },
+  {
+   "id": "acc-prev",
+   "title": "Prevention",
+   "color": "green",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Moisturise skin twice daily with fragrance-free emollient",
+    "Identify and avoid personal triggers",
+    "Use mild, fragrance-free soaps and detergents",
+    "Keep fingernails short to prevent skin damage from scratching",
+    "Wear loose, soft, breathable clothing",
+    "Keep indoor humidity moderate (45-55%)"
+   ]
+  },
+  {
+   "id": "acc-treat",
+   "title": "Treatment",
+   "color": "orange",
+   "open": false,
+   "intro": "",
+   "items": [
+    "Topical corticosteroids, first-line treatment for flares",
+    "Topical calcineurin inhibitors (Tacrolimus) for sensitive areas",
+    "Dupilumab (Dupixent), biologic for moderate-severe eczema",
+    "Antihistamines for itching (sedating at night)",
+    "Wet wrap therapy for severe flares",
+    "Antibiotics if skin is infected from scratching"
+   ]
+  }
+ ],
+ "facts": [
+  [
+   "Skin Barrier",
+   "Impaired barrier allows allergens and irritants to penetrate"
+  ],
+  [
+   "Affiliate",
+   "Dermatologist-approved moisturizers, Amazon / iHerb"
+  ]
+ ],
+ "related": [
+  [
+   "Acne",
+   "acne"
+  ],
+  [
+   "Asthma",
+   "asthma"
+  ],
+  [
+   "Anxiety",
+   "anxiety"
+  ]
+ ],
+ "related_label": "Related Diseases",
+ "promo_html": "<div class=\"sw\" style=\"background:#f0f8ff;border-color:#b3d9f0\"><div class=\"sw-head\" style=\"background:#e3f4fd\">Affiliate</div><div class=\"sw-body\" style=\"text-align:center;padding:18px\"><p style=\"font-size:13px;font-weight:700;color:var(--t);margin-bottom:6px\">Health Supplements</p><a class=\"btn-p\" href=\"https://iherb.com\" rel=\"noopener sponsored\" style=\"font-size:13px;padding:10px\" target=\"_blank\">Shop on iHerb</a></div></div>",
+ "image": "",
+ "updated": "2026-05-03",
+ "origin": "original",
+ "description": "Complete guide to Eczema: symptoms, triggers, skincare routine, topical treatments, and long term management. reviewed by experts dermatology guide."
+}
